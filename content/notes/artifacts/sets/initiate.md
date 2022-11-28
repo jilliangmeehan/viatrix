@@ -11,3 +11,4 @@ the initiate artifact set is unobtainable — you only see it on trial chara
 ## [[notes/artifacts/plume of death|initiate's feather]]
 > An item attached to the grip of a traveler's first sword, bearing the modest dreams of its wielder.
 
+https://genshin-impact.fandom.com/wiki/Initiate

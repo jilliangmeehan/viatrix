@@ -1,6 +1,6 @@
 ---
 title: "lucky dog"
-draft: true
+draft: false
 ---
 i don't have any guesses as to who this artifact series is about, but it reminds me a lot of [[bennett]] — except bennett is obviously known to be very *unlucky.* 
 
@@ -69,3 +69,5 @@ since it's explicitly mentioned that he had no family or children, i guess it's 
 > Just like that, Lucky Dog discovered a treasure trove left by the old aristocrats. This circlet came to epitomize his luck.
 
 we don't know who "lucky dog" is, where he's from, or what time period he lived in. but this sounds like it could be referring to [[parcifal]], an "exiled" descendent of the [[lawrence clan]] — "old aristocrats" in mondstadt who have ties to the [[royal series]] of weapons. 
+
+https://genshin-impact.fandom.com/wiki/Lucky_Dog
