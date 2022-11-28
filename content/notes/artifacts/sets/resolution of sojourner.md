@@ -13,16 +13,16 @@ their uprising is often referred to as a failure, because it didn't have a happy
 *"A small cerulean flower with somebody's ribbon pinned to the stem."*
 > The traveler from a distant land pinned this flower close to his chest.
 > 
-> The traveler left ==a life of great privilege== to pursue a wandering, unburdened life. 
+> The traveler left a life of great privilege to pursue a wandering, unburdened life. 
 > 
 > In a foreign land, by a clear lake of sweet waters, he met a frowning maiden.
 > 
 > "A traveler from afar? ...Huh. Not like it matters."  
 > "You're a musician? Well then, pray do not insult me with empty praises or song."  
 > "Just remember me as I am."  
-> "As one about to be offered up as a sacrifice for the ==’festival.'=="
+> "As one about to be offered up as a sacrifice for the 'festival.'"
 > 
-> The traveler who had ==abandoned his homeland== pinned this flower close to his chest.  
+> The traveler who had abandoned his homeland pinned this flower close to his chest.  
 > He wished to remind himself to love no one, and become attached to nothing.  
 > Yet he would remember that maiden as he had promised, and walk into the fire for her sake...
 
@@ -34,18 +34,18 @@ the "homeland" that the sojourner abandoned was [[fontaine]]. (i really hope fon
 *"A blue arrow fletching imbued with the sentiment of travelers that had once faded into the horizon."*
 > Hope was ripped to shreds by ruthless might, and promises of reunion disappeared like fleeting shadows. 
 > 
-> The wandering traveler had once against ==lost a place to call home.==
+> The wandering traveler had once against lost a place to call home.
 > 
-> The condescending evil ==stole his love's joy==,  
+> The condescending evil stole his love's joy,  
 > And the endless conflict ground down his irreverent soul.  
 > Those gentle, playful rhythms of revelry,  
 > Now turned to sharp, icy clangs.
 > 
 > For his comrades, for his best friend, for the tables around which none would again share wine.  
-> For freedom, for life, and for revenge against the evil that had ==taken her smile==.  
+> For freedom, for life, and for revenge against the evil that had taken her smile.  
 > Thus resolved, the traveler plucked his last string, and fired his final arrow.
 > 
-> As he ==grew accustomed to life in this foreign land==, he gazed up at the azure sky.  
+> As he grew accustomed to life in this foreign land, he gazed up at the azure sky.  
 > Ah, so the sky here was the same as the one back in his homeland...
 
 after the sojourner fell in love with the woman by the lake, the [[wanderers’ troupe]] attempted to storm mondstadt & start an uprising against the aristocracy — but they failed, and soon after "disbanded." the [wiki](https://genshin-impact.fandom.com/wiki/Wanderer%27s_Troupe_(Faction)) claims that the sojourner was killed in the uprising, but that doesn't seem true to me since this mentions that he "grew accustomed to life in this foreign land" *after* the mention of the uprising. (that said, i've noticed that artifact lore is not always linear & "losing a place to call home" is a little at odds with "growing accustomed to life in this foreign land.")  
@@ -58,18 +58,18 @@ it's also unclear what the fate of the woman was — she could have been kil
 *"A sundial that has survived the ages, always silently recording the cycles of the sun and moon as they pass through the sky."*
 > The traveler pursued both [[fate]] and the inexorable passage of [[time]].  
 > 
-> The troupe that resisted the aristocracy — and ==their end== — could be seen in the eternal flow of time.
+> The troupe that resisted the aristocracy — and their end — could be seen in the eternal flow of time.
 > 
 > In the course of a long journey, even the most well-made watch might cease to work.  
 > The only unfailing marker of time was the passage of the [[sun]] and [[moon]].  
-> ==So to chase formless time, the traveler could only pursue [[light]] itself.==
+> So to chase formless time, the traveler could only pursue [[light]] itself.
 > 
 > The great halls of the nobility, and the rebellious troupe with no room to lay their heads.  
-> Both were churned just the same by the flow of time, and both like fleeting [[dreams]] ==raced towards the same destruction.==
+> Both were churned just the same by the flow of time, and both like fleeting [[dreams]] raced towards the same destruction.
 > 
 > Under the moonless night sky, the dark shadows drew upon the outlander's tired face.  
 > "The songs are spent like arrows few, to the choir the curtain calls."  
-> "Shall I ever see you smile anew, ==when the tower in the city square falls?=="
+> "Shall I ever see you smile anew, when the tower in the city square falls?"
 
 again, i think the mention of "their end" here isn't necessarily referring to the deaths of the [[wanderers’ troupe]], just the fact that they disbanded after the failed uprising. 
 
@@ -79,10 +79,10 @@ this description is one of my favorites; it's so beautiful. *"So to chase formle
 
 ## [[notes/artifacts/goblet of eonothem|goblet of the sojourner]]
 *"A plain porcelain goblet that was once brimming with joyous brews."*
-> ==A lyre has 4 strings.== 
+> A lyre has 4 strings.  
 > 
 > The days he spent with his comrades in the "troupe" were probably the happiest in his life of wandering.  
-> At first, it was just a chance meeting with the conductor — but for ==the invisible strings of [[fate]].== 
+> At first, it was just a chance meeting with the conductor — but for the invisible strings of [[fate]]. 
 > First came the girl who used a flute as a sword, and then that fellow Kreuzlied — one by one, the traveler met them all.
 > 
 > In the joyous tavern, the lyrist introduced a maiden he had met by chance to his comrades amidst the singing and dancing.  
@@ -98,14 +98,14 @@ mentioning the strings of fate here is interesting to me — this is the sec
 ## [[notes/artifacts/circlet of logos|crown of parting]]
 *"A reed coronet that emanates the spring breeze."*
 > The departing traveler would take this crown of willow branches as a final memento.  
-> With it, he would remember his lover, now ==departed like a dandelion on the breeze.==
+> With it, he would remember his lover, now departed like a dandelion on the breeze.
 > 
 > The traveler was the wandering lyrist, and that maiden in the country of wine was a prisoner of the nobility.  
 > For reasons he knew not himself, his lyre-song revealed his true heart.
 > 
 > "What would move me, you ask? ...Well, it would be your smile."  
-> =="I've never known you to smile, after all. Not even once."==  
-> "I will ==break the chains== that bind you."  
+> "I've never known you to smile, after all. Not even once."  
+> "I will break the chains that bind you."  
 > "When that time comes, would you let me see you smile?"
 > 
 > "Yes, and thank you. It would be wonderful indeed if you could do that."  
