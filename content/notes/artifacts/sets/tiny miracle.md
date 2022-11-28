@@ -22,7 +22,7 @@ i also really love the comment on the wiki page for this set that just says:
 > 
 > With its broad wings, its gliding speed was unparalleled.
 
-# [[notes/artifacts/sands of eon|tiny miracle's hourglass]]
+## [[notes/artifacts/sands of eon|tiny miracle's hourglass]]
 *"Just an ordinary everyday hourglass. Turn it upside down and sure enough, the dry sand starts trickling down like water."*
 > It is often said that one may achieve victory by striving, but receive a miracle only by waiting.  
 > 
@@ -30,7 +30,7 @@ i also really love the comment on the wiki page for this set that just says:
 > 
 > Is it not too a miracle that we met each other?
 
-# [[notes/artifacts/goblet of eonothem|tiny miracle's goblet]]
+## [[notes/artifacts/goblet of eonothem|tiny miracle's goblet]]
 *"A cup commonly used for fortunetelling. It can also hold water, of course."*
 > A clear goblet glittering with starlight.  
 > 
@@ -40,7 +40,7 @@ i also really love the comment on the wiki page for this set that just says:
 
 🤨 the "[[starry sea]]," huh?
 
-# [[notes/artifacts/circlet of logos|tiny miracle's earrings]]
+## [[notes/artifacts/circlet of logos|tiny miracle's earrings]]
 *"A cheap accessory that is actually made from ancient meteoric ore."*
 > An inexpensive pair of earrings made from metal that shines like the stars.  
 > 
