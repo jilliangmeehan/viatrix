@@ -15,3 +15,4 @@ draft: false
 - [[notes/artifacts/sets/adventurer|adventurer]]
 - [[notes/artifacts/sets/lucky dog]]
 - [[notes/artifacts/sets/traveling doctor]]
+- [[notes/artifacts/sets/resolution of sojourner]]
