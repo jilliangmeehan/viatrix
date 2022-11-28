@@ -55,4 +55,3 @@ this could be about any ancient civilization — and it doesn't really matte
 > 
 > All of these things are awaiting discovery by mere mortals.
 
-https://genshin-impact.fandom.com/wiki/Adventurer

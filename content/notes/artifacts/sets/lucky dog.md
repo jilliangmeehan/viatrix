@@ -10,7 +10,7 @@ since it's explicitly mentioned that he had no family or children, i guess it's 
 
 **another fun note:** the german name for this set is "Glückspilz" which translates to "Lucky Mushroom" — apparently this is a colloqial term for a lucky person, based on the fact that mushrooms are symbols of good luck in germany.
 
-# [[notes/artifacts/flower of life|lucky dog's clover]]
+## [[notes/artifacts/flower of life|lucky dog's clover]]
 *"A four-leaf clover that grows in the wild. It was picked because it is said to bring good luck."*
 > One who is favored by fortune tends to experience at least their fair share of miracles.  
 > 
@@ -22,7 +22,7 @@ since it's explicitly mentioned that he had no family or children, i guess it's 
 > 
 > No one knows whether it was the clover which brought him his good fortune, or the other way around.
 
-# [[notes/artifacts/plume of death|lucky dog's eagle feather]]
+## [[notes/artifacts/plume of death|lucky dog's eagle feather]]
 *"A monster once cornered an adventurer, but was then picked off by a hunting [[eagle]]... That eagle dropped this feather, which now carries some of the adventurer's good luck."*
 > When fortune has your back, even the most ferocious monster has to yield.  
 > 
@@ -32,7 +32,7 @@ since it's explicitly mentioned that he had no family or children, i guess it's 
 > 
 > This was going to be an easy hunt, the monster thought — until a feather from the eagle circling above fell quietly onto its back.
 
-# [[notes/artifacts/goblet of eonothem|lucky dog's hourglass]]
+## [[notes/artifacts/goblet of eonothem|lucky dog's hourglass]]
 *"A broken hourglass from which all the sand has escaped. But it's fine, because the passage of time means nothing to someone without a single worry in the whole world."*
 > Even time itself could not leave a wrinkle on the face of the happy-go-lucky boy known as Lucky Dog.  
 > 
@@ -44,7 +44,7 @@ since it's explicitly mentioned that he had no family or children, i guess it's 
 > 
 > He simply chuckled, took a slingshot, and shattered the hourglass.
 
-# [[notes/artifacts/goblet of eonothem|lucky dog's goblet]]
+## [[notes/artifacts/goblet of eonothem|lucky dog's goblet]]
 *"An exquisite metallic vessel that was once used to knock out a thief."*
 > Once there was a child favored by fortune from the day he was born.  
 > 
@@ -58,7 +58,7 @@ since it's explicitly mentioned that he had no family or children, i guess it's 
 > 
 > Naturally, this makes Lucky Dog one of very few people known to have benefited, rather than suffered, from being in the vicinity of a tavern brawl.
 
-# [[notes/artifacts/circlet of logos|lucky dog's silver circlet]]
+## [[notes/artifacts/circlet of logos|lucky dog's silver circlet]]
 *"Its former owner once fell into a cave and found the treasure trove of an exiled royal. This is a souvenir from that incident."*
 > One who is favored by fortune can find priceless treasures in the most deadly of traps.  
 > 

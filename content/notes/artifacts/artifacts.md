@@ -14,3 +14,4 @@ draft: false
 - [[notes/artifacts/sets/initiate|initiate]]
 - [[notes/artifacts/sets/adventurer|adventurer]]
 - [[notes/artifacts/sets/lucky dog]]
+- [[notes/artifacts/sets/traveling doctor]]
