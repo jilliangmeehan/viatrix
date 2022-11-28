@@ -13,3 +13,4 @@ draft: false
 ## artifact sets
 - [[notes/artifacts/sets/initiate|initiate]]
 - [[notes/artifacts/sets/adventurer|adventurer]]
+- [[notes/artifacts/sets/lucky dog]]

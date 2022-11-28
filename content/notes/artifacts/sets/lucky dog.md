@@ -8,6 +8,8 @@ the part that says "Lucky Dog had no family, let alone children of his own. But 
 
 since it's explicitly mentioned that he had no family or children, i guess it's unlikely that bennett is actually related to him — but since we *also* don't know where the hell bennett came from, i don't think it's *impossible.* 
 
+**another fun note:** the german name for this set is "Glückspilz" which translates to "Lucky Mushroom" — apparently this is a colloqial term for a lucky person, based on the fact that mushrooms are symbols of good luck in germany.
+
 # [[notes/artifacts/flower of life|lucky dog's clover]]
 *"A four-leaf clover that grows in the wild. It was picked because it is said to bring good luck."*
 > One who is favored by fortune tends to experience at least their fair share of miracles.  
