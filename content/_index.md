@@ -15,5 +15,5 @@ tktk
 tktk
 
 ## start here
-[[notes/01 - timeline]]
-[[notes/artifacts/artifacts|artifacts]] 
+- [[notes/01 - timeline]]
+- [[notes/artifacts/artifacts|artifacts]] 
