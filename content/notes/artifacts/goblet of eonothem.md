@@ -29,7 +29,7 @@ another thing i think is interesting:
 we're starting to get more and more hints about teyvat's ocean — i definitely believe that there's a lot underwater that we haven't even heard about yet. not to mention [[enkanomiya]].
 
 ## ok so what does it mean?
-i don't know why they chose the goblet, specifically, as a symbol of eonothems. maybe it's linked to the [tarot suit of cups](https://en.wikipedia.org/wiki/Suit_of_goblets), which pertains to emotions, intuition, spirituality, and water. or maybe it's referencing the [holy grail](https://en.wikipedia.org/wiki/Holy_Grail), symbolizing healing & infinite sustenance. idk!
+i don't know why they chose the goblet, specifically, as a symbol of eonothems. maybe it's linked to the [tarot suit of cups](https://en.wikipedia.org/wiki/Suit_of_goblets), which pertains to emotions, intuition, spirituality, and water. or maybe it's referencing the [holy grail](https://en.wikipedia.org/wiki/Holy_Grail), symbolizing healing & infinite sustenance. idk! the descriptions of a lot of goblet pieces tend to be related to good, triumphant feelings, or happier times — or just times when someone was drinking.
 
 what i *do* know is the choice to call it the "goblet of eonothem" rather than the "goblet of eon" was deliberate — and the same goes for the [[notes/artifacts/sands of eon]]. these pieces represent different, but related things; while the sands go hand-in-hand with the passage of time, the goblet represents something more physical. 
 
