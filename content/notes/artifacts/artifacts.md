@@ -16,3 +16,4 @@ draft: false
 - [[notes/artifacts/sets/lucky dog]]
 - [[notes/artifacts/sets/traveling doctor]]
 - [[notes/artifacts/sets/resolution of sojourner]]
+- [[notes/artifacts/sets/tiny miracle]]
