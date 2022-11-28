@@ -3,13 +3,17 @@ title: "adventurer"
 draft: false
 ---
 
+this set might be based on [herman](https://genshin-impact.fandom.com/wiki/Herman).
+
 ## [[notes/artifacts/flower of life|adventurer's flower]]
-*"A resilient flower that survived the harsh environment of an ancient city. It is now proudly worn like a medal."*
+*"A resilient flower that survived the harsh environment of [[an ancient city]]. It is now proudly worn like a medal."*
 > The ambitious adventurer came across this resilient flower in the depths of a gloomy ruin.  
 > 
 > Moved by the sight of life sprouting in defiance of a lifeless land, he almost forgot about the treasures buried deep in the ruin. 
 > 
 > After pausing to ponder it for a while, the adventurer plucked the flower, wore it as a brooch, and ventured forth into the darkness.
+
+this could be about any ancient civilization — and it doesn't really matter, because the adventurer has clearly traveled all over the place. but "harsh environment" does make me think of [[sal vindagnyr]].
 
 ## [[notes/artifacts/plume of death|adventurer's tail feather]]
 *"The feather of an exotic bird rarely seen on this continent."*
@@ -21,9 +25,11 @@ draft: false
 > 
 > Her appearance was surreal, with a cluster of feathers adorning her hair.
 
+(the feather looks like a peacock feather — what "continent" are they seen on?)
+
 ## [[notes/artifacts/sands of eon|adventurer's pocket watch]]
 *"It's easy to lose track of time when you're adventuring where the sun doesn't shine, whether that's the depths of the abyss or the ruins of a lost city."*
-> A pocket watch that once belonged to an adventurer. It was crafted by a master watchmaker with simplicity and practicality in mind, aligning with the philosophy of the Adventurers' Guild.  
+> A pocket watch that once belonged to an adventurer. It was crafted by a master watchmaker with simplicity and practicality in mind, aligning with the philosophy of the [[Adventurers' Guild]].  
 > 
 > The adventurer spent most of his days in darkness. The rhythmic sound of its moving hands was the only proof he had of the passage of time. 
 > 
@@ -45,7 +51,7 @@ draft: false
 > 
 > Just like the bandana, its wearer was an unexceptional, ordinary person.  
 > 
-> But countless secrets lie hidden in the stars high up above and the abyss deep down below.  
+> But countless secrets lie hidden in the [[stars]] high up above and the [[abyss]] deep down below.  
 > 
 > All of these things are awaiting discovery by mere mortals.
 
