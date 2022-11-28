@@ -17,3 +17,4 @@ draft: false
 - [[notes/artifacts/sets/traveling doctor]]
 - [[notes/artifacts/sets/resolution of sojourner]]
 - [[notes/artifacts/sets/tiny miracle]]
+- [[notes/artifacts/sets/berserker]]
