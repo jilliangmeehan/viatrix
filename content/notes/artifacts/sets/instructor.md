@@ -3,7 +3,7 @@ title: "instructor"
 draft: false
 ---
 
-i haven't looked into this set very much, so i have no theories about it yet. but there's a comment on the wiki page that says:
+i haven't looked into this set very much, so i have no theories about it yet. but there's a comment on [the wiki page](https://genshin-impact.fandom.com/wiki/Instructor) that says:
 > "If I'm not mistaken the Instructor's Brooch lore is talking about a Millelith Sergeant named Fengyan. You can find him right of the teleporter on Mt. Tainheng patrolling around Yiyan temple. On your first interaction with him you can obtain an instructors brooch from him along with a story that matches the one in the lore above."
 
 so i'm interested in checking that out at some point. the style of the cap in particular doesn't really scream millelith to me, but it also doesn't really scream mondstadt, so who knows.
@@ -62,3 +62,5 @@ this is one of the rare instances, i think, of a timepiece that counts *up* rath
 > Nor am I qualified for anything beyond being a soldier.  
 > All I can do is to be a strict instructor to these children,  
 > So that they might survive on the battlefield a bit longer."
+
+https://genshin-impact.fandom.com/wiki/Instructor
