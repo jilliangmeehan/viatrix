@@ -21,6 +21,6 @@ https://jillian.cloud
 - [[notes/artifacts/artifacts|artifacts]] 
 
 ## recently updated
-- [[content/notes/the morn a thousand roses brings|the morn a thousand roses brings]]
-- [[content/notes/sun|sun]]
-- [[content/notes/moon|moon]]
+- [[notes/the morn a thousand roses brings|the morn a thousand roses brings]]
+- [[notes/sun|sun]]
+- [[notes/moon|moon]]
