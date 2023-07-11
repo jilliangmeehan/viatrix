@@ -24,3 +24,4 @@ https://jillian.cloud
 - [[notes/the morn a thousand roses brings|the morn a thousand roses brings]]
 - [[notes/sun|sun]]
 - [[notes/moon|moon]]
+- [[notes/rose|rose]]

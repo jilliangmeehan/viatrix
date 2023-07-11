@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "04c4b7c46fa7b967",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/rose.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/moon.md",
+                "file": "content/notes/rose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/moon.md",
+                "file": "content/notes/rose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/moon.md"
+                "file": "content/notes/rose.md"
               }
             }
           }
@@ -207,13 +220,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a79ca15b0fe0d0de",
+  "active": "04c4b7c46fa7b967",
   "lastOpenFiles": [
     "content/_index.md",
-    "content/notes/01 - timeline.md",
-    "content/notes/the morn a thousand roses brings.md",
-    "content/notes/sun.md",
+    "content/notes/rose.md",
     "content/notes/moon.md",
+    "content/notes/sun.md",
+    "content/notes/the morn a thousand roses brings.md",
+    "content/notes/01 - timeline.md",
     "content/notes/artifacts/artifacts.md",
     "content/notes/artifacts/flower of life.md",
     "content/notes/artifacts/circlet of logos.md",
@@ -239,7 +253,6 @@
     "daily/2023-07-02.md",
     "daily/2023-07-01.md",
     "clippings/articles/Doing a Digital Declutter – The Sweet Setup.md",
-    "daily/2023-06-29.md",
     "pics/CleanShot 2023-06-28 at 09.53.43@2x.png"
   ]
 }

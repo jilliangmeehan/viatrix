@@ -8,7 +8,7 @@ the title of this archon quest comes from [the rubaiyat of omar khayyam](http://
 > [!NOTE]
 > there's a lot to do with **wine** in this poem that i haven't really included here because it's a whole thing & i want to sit down and go over it all in one pass. 
 
-![[content/notes/images/wiki_khayyam.png]]
+![[notes/images/wiki_khayyam.png]]
 
 stanzas 1 & 2:
 > WAKE! For the Sun, who scatter’d into flight
@@ -24,7 +24,7 @@ false sky?
 ---
 
 stanzas 6 & 7:
-> Iram indeed is gone with all his Rose,
+> Iram indeed is gone with all his [[content/notes/rose|Rose]],
 And Jamshyd’s Sev’n-ring’d Cup where no one knows;
   But still a Ruby kindles in the Vine,
 And many a Garden by the Water blows. 
@@ -32,7 +32,7 @@ And many a Garden by the Water blows.
 
 > And David’s lips are lockt; but in divine
 High-piping Pehlevi, with "Wine! Wine! Wine!
-  "Red Wine!"—the Nightingale cries to the Rose
+  "Red Wine!"—the Nightingale cries to the [[content/notes/rose|Rose]]
 That sallow cheek of hers to’ incarnadine.
 
 i just love a nightingale & rose mention.
@@ -51,8 +51,8 @@ the bird of time — is this referring also to the nightingale? another type
 
 stanza 9:
 > Each Morn a thousand Roses brings, you say:
-Yes, but where leaves the Rose of Yesterday?
-  And this first Summer month that brings the Rose
+Yes, but where leaves the [[content/notes/rose|Rose]] of Yesterday?
+  And this first Summer month that brings the [[content/notes/rose|Rose]]
 Shall take Jamshyd and Kaikobad away.
 
 the titular stanza! this one really gets at the essence of the whole poem — every day brings both new life and loss.
@@ -75,7 +75,9 @@ The Two-and-Seventy jarring Sects confute:
 Life’s leaden metal into Gold transmute;
 
 **two-and-seventy** = 72 demons in ars goetia
+
 **sovereign alchemist ... into Gold transmute** = possibly refers to rhinedottir
+
 (also "in a trice" = quickly)
 
 ---
@@ -117,6 +119,7 @@ Upon this Chequer-board of Nights and Days;
 And one by one back in the Closet lays.
 
 chess theory 😵‍💫
+
 **the sun-illumined lantern held in midnight** = the moon?
 
 ---
@@ -158,7 +161,7 @@ filling the vessel with wine after it runs out. interesting! fits well alongside
 ---
 
 stanzas 96, 97, & 98:
-> Yet Ah, that Spring should vanish with the Rose!
+> Yet Ah, that Spring should vanish with the [[content/notes/rose|Rose]]!
 That Youth’s sweet-scented manuscript should close!
   The Nightingale that in the branches sang,
 Ah whence, and whither flown again, who knows! 
