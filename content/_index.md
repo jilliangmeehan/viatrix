@@ -19,3 +19,4 @@ https://jillian.cloud
 ## start here
 - [[notes/01 - timeline]]
 - [[notes/artifacts/artifacts|artifacts]] 
+- [[_archive|archive]]

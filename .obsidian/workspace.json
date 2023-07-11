@@ -182,6 +182,11 @@
   },
   "active": "a79ca15b0fe0d0de",
   "lastOpenFiles": [
+    "content/_archive.md",
+    "content/_index.md",
+    "content/_index copy.md",
+    "layouts/archive.html",
+    "layouts/index copy.html",
     "content/notes/rose.md",
     "content/notes/the morn a thousand roses brings.md",
     "content/notes/artifacts/sets/berserker.md",
@@ -193,7 +198,6 @@
     "content/notes/artifacts/sets/traveling doctor.md",
     "content/notes/artifacts/sets/adventurer.md",
     "content/notes/01 - timeline.md",
-    "content/_index.md",
     "content/notes/artifacts/artifacts.md",
     "content/notes/artifacts/flower of life.md",
     "content/notes/artifacts/circlet of logos.md",
@@ -211,8 +215,6 @@
     "whiteboard.canvas",
     "daily/2023-07-08.md",
     "daily/2023-07-07.md",
-    "daily/2023-07-06.md",
-    "daily/2023-07-05.md",
     "pics/CleanShot 2023-06-28 at 09.53.43@2x.png"
   ]
 }
