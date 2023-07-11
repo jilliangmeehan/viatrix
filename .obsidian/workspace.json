@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/rose.md",
+                "file": "content/notes/01 - timeline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/rose.md",
+                "file": "content/notes/01 - timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/rose.md",
+                "file": "content/notes/01 - timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/rose.md"
+                "file": "content/notes/01 - timeline.md"
               }
             }
           }
@@ -222,11 +222,11 @@
   },
   "active": "04c4b7c46fa7b967",
   "lastOpenFiles": [
-    "content/_index.md",
+    "content/notes/the morn a thousand roses brings.md",
     "content/notes/rose.md",
+    "content/_index.md",
     "content/notes/moon.md",
     "content/notes/sun.md",
-    "content/notes/the morn a thousand roses brings.md",
     "content/notes/01 - timeline.md",
     "content/notes/artifacts/artifacts.md",
     "content/notes/artifacts/flower of life.md",
