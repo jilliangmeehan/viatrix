@@ -35,7 +35,7 @@ we don't know where the berserker's homeland was — could have been anywher
 > 
 > His life was [[destined]] to end the moment he met his last challenge in the battlefield.  
 > 
-> On the battlefield where blood flowed like rivers, his hourglass was painted red by the setting [[sun]].
+> On the battlefield where blood flowed like rivers, his hourglass was painted red by the setting [[content/notes/sun]].
 
 what was "his last challenge" and why did that, specifically, make his life "destined to end"? was it the monster mentioned in the **bone goblet** description below, or something more metaphorical? 
 

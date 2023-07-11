@@ -55,13 +55,13 @@ it's also unclear what the fate of the woman was — she could have been kil
 *also*: who was his "best friend"? what is the significance of his "final arrow"? lots that i'm still curious about.
 
 ## [[notes/artifacts/sands of eon|sundial of the sojourner]]
-*"A sundial that has survived the ages, always silently recording the cycles of the sun and moon as they pass through the sky."*
+*"A sundial that has survived the ages, always silently recording the cycles of the [[content/notes/sun|sun]] and moon as they pass through the sky."*
 > The traveler pursued both [[fate]] and the inexorable passage of [[time]].  
 > 
 > The troupe that resisted the aristocracy — and their end — could be seen in the eternal flow of time.
 > 
 > In the course of a long journey, even the most well-made watch might cease to work.  
-> The only unfailing marker of time was the passage of the [[sun]] and [[moon]].  
+> The only unfailing marker of time was the passage of the [[content/notes/sun]] and [[moon]].  
 > So to chase formless time, the traveler could only pursue [[light]] itself.
 > 
 > The great halls of the nobility, and the rebellious troupe with no room to lay their heads.  

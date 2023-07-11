@@ -6,7 +6,7 @@
   "showInlineTitle": true,
   "trashOption": "local",
   "newFileLocation": "root",
-  "newLinkFormat": "shortest",
+  "newLinkFormat": "absolute",
   "showFrontmatter": false,
   "promptDelete": false
 }
