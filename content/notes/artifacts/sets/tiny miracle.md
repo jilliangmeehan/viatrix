@@ -3,7 +3,7 @@ title: "tiny miracle"
 draft: false
 ---
 
-this set seems to be referencing the fall of the [[notes/characters/three moon sisters]], which overturned the [[content/notes/moon|moon]] chariot & "laid ruin to the halls of the stars."[^1]
+this set seems to be referencing the fall of the [[notes/characters/three moon sisters]], which overturned the [[notes/moon|moon]] chariot & "laid ruin to the halls of the stars."[^1]
 
 i also really love the comment on the wiki page for this set that just says: 
 > "Is this artifact abt death or what lol"

@@ -8,51 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8b143a7855f45748",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/01 - timeline.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bfca6cc276dde28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/moon.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c345ff116fb983e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/sun.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a79ca15b0fe0d0de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/moon.md",
+                "file": "content/notes/rose.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -72,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/01 - timeline.md",
+                "file": "content/notes/rose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/01 - timeline.md",
+                "file": "content/notes/rose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/01 - timeline.md"
+                "file": "content/notes/rose.md"
               }
             }
           }
@@ -220,14 +180,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "04c4b7c46fa7b967",
+  "active": "a79ca15b0fe0d0de",
   "lastOpenFiles": [
     "content/notes/the morn a thousand roses brings.md",
     "content/notes/rose.md",
-    "content/_index.md",
+    "content/notes/artifacts/sets/berserker.md",
     "content/notes/moon.md",
+    "content/notes/artifacts/sets/resolution of sojourner.md",
+    "content/notes/artifacts/sets/tiny miracle.md",
+    "content/notes/characters/three moon sisters.md",
     "content/notes/sun.md",
+    "content/notes/artifacts/sets/traveling doctor.md",
+    "content/notes/artifacts/sets/adventurer.md",
     "content/notes/01 - timeline.md",
+    "content/_index.md",
     "content/notes/artifacts/artifacts.md",
     "content/notes/artifacts/flower of life.md",
     "content/notes/artifacts/circlet of logos.md",
@@ -247,12 +213,6 @@
     "daily/2023-07-07.md",
     "daily/2023-07-06.md",
     "daily/2023-07-05.md",
-    "clippings/articles/Filmmaker and photographer Mike Galinsky on giving your art the time it needs.md",
-    "daily/2023-07-04.md",
-    "daily/2023-07-03.md",
-    "daily/2023-07-02.md",
-    "daily/2023-07-01.md",
-    "clippings/articles/Doing a Digital Declutter – The Sweet Setup.md",
     "pics/CleanShot 2023-06-28 at 09.53.43@2x.png"
   ]
 }

@@ -9,7 +9,7 @@ there are a few mentions of birds — specifically [[raven|ravens]] — 
 
 ## [[notes/artifacts/flower of life|berserker's rose]]
 *"An exquisite flower that has been dyed red. It represents the qualities of the Berserker."*
-> In the days before the berserker descended into madness, he would sometimes pause in the [[content/notes/rose|rose]] garden for a moment to himself.  
+> In the days before the berserker descended into madness, he would sometimes pause in the [[notes/rose|rose]] garden for a moment to himself.  
 > 
 > He had never had a family, nor had he a lover, or a friend.  
 > 
@@ -19,7 +19,7 @@ there are a few mentions of birds — specifically [[raven|ravens]] — 
 *"An indigo feather from a legendary [[raven]], part of which has been dyed crimson red."*
 > The once-sane berserker's homeland fell victim to the raging war between gods and mortals.  
 > 
-> The [[content/notes/rose|rose]] garden burst into flames and [[birds]] of omen fed on the flesh of his countrymen.  
+> The [[notes/rose|rose]] garden burst into flames and [[birds]] of omen fed on the flesh of his countrymen.  
 > 
 > Reborn in flames, vengeance and bloodlust took over the warrior's mind, turning him into a berserker.  
 > 
@@ -35,7 +35,7 @@ we don't know where the berserker's homeland was — could have been anywher
 > 
 > His life was [[destined]] to end the moment he met his last challenge in the battlefield.  
 > 
-> On the battlefield where blood flowed like rivers, his hourglass was painted red by the setting [[content/notes/sun]].
+> On the battlefield where blood flowed like rivers, his hourglass was painted red by the setting [[notes/sun|sun]].
 
 what was "his last challenge" and why did that, specifically, make his life "destined to end"? was it the monster mentioned in the **bone goblet** description below, or something more metaphorical? 
 

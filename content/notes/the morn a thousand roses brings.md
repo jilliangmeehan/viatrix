@@ -11,7 +11,7 @@ the title of this archon quest comes from [the rubaiyat of omar khayyam](http://
 ![[notes/images/wiki_khayyam.png]]
 
 stanzas 1 & 2:
-> WAKE! For the Sun, who scatter’d into flight
+> WAKE! For the [[notes/sun|Sun]], who scatter’d into flight
 The Stars before him from the Field of Night,
   Drives Night along with them from Heav’n, and strikes
 The Sultan’s Turret with a Shaft of Light.
@@ -24,7 +24,7 @@ false sky?
 ---
 
 stanzas 6 & 7:
-> Iram indeed is gone with all his [[content/notes/rose|Rose]],
+> Iram indeed is gone with all his [[notes/rose|Rose]],
 And Jamshyd’s Sev’n-ring’d Cup where no one knows;
   But still a Ruby kindles in the Vine,
 And many a Garden by the Water blows. 
@@ -32,7 +32,7 @@ And many a Garden by the Water blows.
 
 > And David’s lips are lockt; but in divine
 High-piping Pehlevi, with "Wine! Wine! Wine!
-  "Red Wine!"—the Nightingale cries to the [[content/notes/rose|Rose]]
+  "Red Wine!"—the Nightingale cries to the [[notes/rose|Rose]]
 That sallow cheek of hers to’ incarnadine.
 
 i just love a nightingale & rose mention.
@@ -51,8 +51,8 @@ the bird of time — is this referring also to the nightingale? another type
 
 stanza 9:
 > Each Morn a thousand Roses brings, you say:
-Yes, but where leaves the [[content/notes/rose|Rose]] of Yesterday?
-  And this first Summer month that brings the [[content/notes/rose|Rose]]
+Yes, but where leaves the [[notes/rose|Rose]] of Yesterday?
+  And this first Summer month that brings the [[notes/rose|Rose]]
 Shall take Jamshyd and Kaikobad away.
 
 the titular stanza! this one really gets at the essence of the whole poem — every day brings both new life and loss.
@@ -110,7 +110,7 @@ i have a theory (that this reminds me of) that visions are granted when you *ful
 stanzas 68 & 69:
 > We are no other than a moving row
 Of Magic Shadow-shapes that come and go
-  Round with the Sun-illumined Lantern held
+  Round with the [[notes/sun|Sun]]-illumined Lantern held
 In Midnight by the Master of the Show; 
 
 > But helpless Pieces of the Game He plays
@@ -120,7 +120,7 @@ And one by one back in the Closet lays.
 
 chess theory 😵‍💫
 
-**the sun-illumined lantern held in midnight** = the moon?
+**the sun-illumined lantern held in midnight** = the [[notes/moon|moon]]?
 
 ---
 
@@ -161,7 +161,7 @@ filling the vessel with wine after it runs out. interesting! fits well alongside
 ---
 
 stanzas 96, 97, & 98:
-> Yet Ah, that Spring should vanish with the [[content/notes/rose|Rose]]!
+> Yet Ah, that Spring should vanish with the [[notes/rose|Rose]]!
 That Youth’s sweet-scented manuscript should close!
   The Nightingale that in the branches sang,
 Ah whence, and whither flown again, who knows! 
@@ -191,7 +191,7 @@ heart's desire — like the book.
 ---
 
 stanzas 100 & 101:
-> Yon rising Moon that looks for us again—
+> Yon rising [[notes/moon|Moon]] that looks for us again—
 How oft hereafter will she wax and wane;
   How oft hereafter rising look for us
 Through this same Garden—and for one in vain! 
