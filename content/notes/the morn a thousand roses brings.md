@@ -8,7 +8,7 @@ the title of this archon quest comes from [the rubaiyat of omar khayyam](http://
 > [!NOTE]
 > there's a lot to do with **wine** in this poem that i haven't really included here because it's a whole thing & i want to sit down and go over it all in one pass. 
 
-![[CleanShot_2023-04-17_at_16.38.102x.png]]
+![[content/notes/images/wiki_khayyam.png]]
 
 stanzas 1 & 2:
 > WAKE! For the Sun, who scatter’d into flight
