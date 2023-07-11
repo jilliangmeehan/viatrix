@@ -19,9 +19,3 @@ https://jillian.cloud
 ## start here
 - [[notes/01 - timeline]]
 - [[notes/artifacts/artifacts|artifacts]] 
-
-## recently updated
-- [[notes/the morn a thousand roses brings|the morn a thousand roses brings]]
-- [[notes/sun|sun]]
-- [[notes/moon|moon]]
-- [[notes/rose|rose]]
