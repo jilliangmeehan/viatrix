@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: "the morn a thousand roses brings"
 draft: false
 ---
 

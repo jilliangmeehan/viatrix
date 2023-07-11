@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: "moon"
 draft: false
 ---
 

@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/moon.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/moon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/moon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/moon.md"
               }
             }
           }
@@ -209,12 +209,12 @@
   },
   "active": "a79ca15b0fe0d0de",
   "lastOpenFiles": [
+    "content/notes/sun.md",
     "content/notes/the morn a thousand roses brings.md",
+    "content/notes/moon.md",
+    "content/notes/01 - timeline.md",
     "content/_index.md",
     "content/notes/images/wiki_khayyam.png",
-    "content/notes/01 - timeline.md",
-    "content/notes/sun.md",
-    "content/notes/moon.md",
     "content/notes/places/realms.md",
     "content/templates/post.md",
     "content/private/private-note.md",
