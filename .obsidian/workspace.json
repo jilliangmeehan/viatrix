@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/the morn a thousand roses brings.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/the morn a thousand roses brings.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/the morn a thousand roses brings.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/the morn a thousand roses brings.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -207,10 +207,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "604b9cfec8882f10",
+  "active": "a79ca15b0fe0d0de",
   "lastOpenFiles": [
-    "content/_index.md",
     "content/notes/the morn a thousand roses brings.md",
+    "content/_index.md",
     "content/notes/images/wiki_khayyam.png",
     "content/notes/01 - timeline.md",
     "content/notes/sun.md",
