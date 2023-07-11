@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "e92181efb92ceb52",
+    "type": "split",
+    "children": [
+      {
+        "id": "38ba2e29417cc18c",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b608eadda6fcf89a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbfbb444bbb7feb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "604b9cfec8882f10",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe73f941ed79331a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7ddff3c2848ed9e4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 190
+  },
+  "right": {
+    "id": "bfb6f9916938360f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ea61deb7a49841f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "294621f1248ef34c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "bf5c49f136dc0452",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46690fa07b53c6bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "c8e7730a8a29ef88",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c768e49709bc728",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d5fb205a8c18c2d4",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272.5
+  },
+  "active": "38ba2e29417cc18c",
+  "lastOpenFiles": [
+    "daily/2022-10-07.md",
+    "synesthesia.md",
+    "apps.md",
+    "journaling.md",
+    "private.md",
+    "tiktok.md",
+    "social media.md",
+    "adhd.md",
+    "watching.md",
+    "reading.md"
+  ]
+}

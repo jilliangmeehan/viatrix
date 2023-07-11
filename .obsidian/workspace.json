@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "e92181efb92ceb52",
+    "type": "split",
+    "children": [
+      {
+        "id": "49eb4c4dbcf54b00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03e5ffd785e0f53a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2023-07-11.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b608eadda6fcf89a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbfbb444bbb7feb5",
+        "type": "tabs",
+        "dimension": 62.222222222222214,
+        "children": [
+          {
+            "id": "604b9cfec8882f10",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe73f941ed79331a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8089be37ac33be8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "8ed3d3cc949ec4bf",
+        "type": "tabs",
+        "dimension": 37.77777777777778,
+        "children": [
+          {
+            "id": "7c768e49709bc728",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255.5
+  },
+  "right": {
+    "id": "bfb6f9916938360f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ea61deb7a49841f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "294621f1248ef34c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "daily/2023-07-11.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "bf5c49f136dc0452",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "daily/2023-07-11.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "46690fa07b53c6bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e1ec7371ca7fe4f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "daily/2023-07-11.md"
+              }
+            }
+          },
+          {
+            "id": "832b9c6260e719a1",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "markdown-importer:Open format converter": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "03e5ffd785e0f53a",
+  "lastOpenFiles": [
+    "daily/2023-07-10.md",
+    "daily/2023-07-11.md",
+    "whiteboard.canvas",
+    "daily/2023-07-08.md",
+    "daily/2023-07-07.md",
+    "daily/2023-07-06.md",
+    "daily/2023-07-05.md",
+    "clippings/articles/Filmmaker and photographer Mike Galinsky on giving your art the time it needs.md",
+    "daily/2023-07-04.md",
+    "daily/2023-07-03.md",
+    "daily/2023-07-02.md",
+    "daily/2023-07-01.md",
+    "clippings/articles/Doing a Digital Declutter – The Sweet Setup.md",
+    "daily/2023-06-29.md",
+    "daily/2023-06-30.md",
+    "daily/2023-06-28.md",
+    "clippings/articles/Entering My Goo Era.md",
+    "seeds/should.md",
+    "clippings/articles/Poet and Activist Donté Clark on Operating From a Loving Space.md",
+    "daily/2022-10-18.md",
+    "sprouts/activities/note-taking.md",
+    "clippings/articles/The Ache and the Sinking Feeling.md",
+    "work/review - oct 22.md",
+    "roots/people/selena.md",
+    "clippings/articles/A Short History of Minimalism.md",
+    "clippings/articles/2023.md",
+    "clippings/articles/2b or Not 2b.md",
+    "pics/CleanShot 2023-06-28 at 09.53.43@2x.png"
+  ]
+}
