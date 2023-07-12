@@ -89,7 +89,8 @@ blockquote[class*="-callout"] {
     color: var(--gray);
     &:first-child {
       font-weight: 400;
-      font-size: 0.7em;
+      font-size: 0.8em;
+      font-style: italic;
       color: var(--dark);
       padding: 0.4em 30px;
     }
@@ -151,18 +152,6 @@ $svgs: map-merge($svgs, ($warning: url("data:image/svg+xml,%3Csvg aria-hidden='t
       border-left: 6px solid var(--callout-#{getstr($type)}) !important;
       & > p:first-child {
         background-color: var(--callout-#{getstr($type)}-accent) !important;
-        &::after {
-          content: '';
-          -webkit-mask: map-get($svgs, $type);
-          mask: map-get($svgs, $type);
-          background-color: var(--callout-#{getstr($type)}) !important;
-          -webkit-mask-size: contain;
-          mask-size: contain;
-          -webkit-mask-repeat: no-repeat;
-          mask-repeat: no-repeat;
-          -webkit-mask-position: center;
-          mask-position: center;
-        }
       }
     }
   }
