@@ -509,8 +509,6 @@ header {
   margin-bottom: 1em;
 
   & > .section {
-    display: flex;
-    align-items: left; 
 
     @media all and (max-width: 600px) {
       & .tags {
