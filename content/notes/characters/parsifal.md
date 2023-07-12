@@ -46,10 +46,7 @@ parsifal is an [[opera]] written by richard wagner, based on the arthurian story
 
 > [!NOTE]
 > **important to note:** genshin *loves* wagner. they are obsessed with this guy. 
-> 
-> anyway, here's a few fun facts:
-> - apparently parsifal was the last opera he ever wrote
-> - wagner, probably more than anyone, is known for having a lot of leitmotifs in his work (similar to the genshin ost lol!)
+
 
 ### percival
 the original percival was one of the knights of the round table in arthurian legend, and was the hero in the quest for the holy grail (before later being replaced by galahad).
@@ -106,4 +103,4 @@ i find it really interesting that [[notes/characters/playable/childe|childe]], p
 - [[durin]]'s corrupted heart being in dragonspine reminds me a lot of whatever is going on with childe re: foul legacy & the [[abyss]]
 - for some reason, the battle music in dragonspine is [all-conquering tide](https://open.spotify.com/track/5BVQORtwCg5PtOUG5GR9B5?si=be8e6c36e63145c2) — a song that’s pretty clearly associated with childe, was in the domain in his story quest, and is not even on the dragonspine album
 
-[^1] via favonius lance description
+[^1]: via favonius lance description
