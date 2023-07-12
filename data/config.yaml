@@ -1,4 +1,4 @@
-name: jillian meehan
+name: ☁️
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -19,7 +19,9 @@ description:
 page_title:
   "🌱 teyvat lore garden"
 links:
-  - link_name: Twitter
+  - link_name: twitter
     link: https://twitter.com/jilliangmeehan
-  - link_name: Twitch
+  - link_name: mastodon
+    link: https://sleepy.cool/@jillian
+  - link_name: twitch
     link: https://twitch.tv/jillianstreams
