@@ -1,6 +1,6 @@
 :root {
-  --callout-summary: #00b0ff;
-  --callout-summary-accent: #7fd7ff;
+  --callout-summary: #286983;
+  --callout-summary-accent: #56949f;
   --callout-bug: #f50057;
   --callout-bug-accent: #ff7aa9;
   --callout-danger: #ff1744;
@@ -26,8 +26,8 @@
 }
 
 [saved-theme=dark] {
-  --callout-summary: #00b0ff !important;
-  --callout-summary-accent: #00587f !important;
+  --callout-summary: #9ccfd8 !important;
+  --callout-summary-accent: #31748f !important;
   --callout-bug: #f50057 !important;
   --callout-bug-accent: #7a002b !important;
   --callout-danger: #ff1744 !important;
@@ -58,8 +58,7 @@ blockquote.callout-collapsible {
   &.callout-collapsible::after {
     content: '-';
     right: 6px;
-    font-weight: bolder;
-    font-family: Courier New, Courier, monospace;
+    font-family: "iA Writer Quattro S", Courier New, Courier, monospace;
   }
 }
 
