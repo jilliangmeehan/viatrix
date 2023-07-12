@@ -195,7 +195,7 @@ article {
 
     &.internal-link {
       text-decoration: none;
-      background-color: transparentize(var(--lightgray), 0.85);
+      background-color: var(--lightgray);
       padding: 0 0.1em;
       margin: auto -0.1em;
       border-radius: 3px;
