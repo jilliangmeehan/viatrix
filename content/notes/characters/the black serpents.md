@@ -1,6 +1,6 @@
 ---
 title: "the black serpents"
-draft: true
+draft: false
 ---
 
 [thread of analysis](https://twitter.com/khaenrian/status/1509465162792722432?s=20&t=mr4LFKZosba9Fgq4BNhHgw)

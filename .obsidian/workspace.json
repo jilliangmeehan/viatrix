@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/characters/three moon sisters.md",
+                "file": "content/notes/places/realms.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/characters/three moon sisters.md",
+                "file": "content/notes/places/realms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/characters/three moon sisters.md",
+                "file": "content/notes/places/realms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/characters/three moon sisters.md"
+                "file": "content/notes/places/realms.md"
               }
             }
           }
@@ -182,6 +182,11 @@
   },
   "active": "a79ca15b0fe0d0de",
   "lastOpenFiles": [
+    "content/notes/characters/three moon sisters.md",
+    "content/notes/characters/the primordial one.md",
+    "content/notes/characters/the four shades.md",
+    "content/notes/characters/the black serpents.md",
+    "content/notes/characters/seelies.md",
     "content/_index.md",
     "content/_archive.md",
     "content/_index copy.md",
@@ -193,7 +198,6 @@
     "content/notes/moon.md",
     "content/notes/artifacts/sets/resolution of sojourner.md",
     "content/notes/artifacts/sets/tiny miracle.md",
-    "content/notes/characters/three moon sisters.md",
     "content/notes/sun.md",
     "content/notes/artifacts/sets/traveling doctor.md",
     "content/notes/artifacts/sets/adventurer.md",
@@ -210,11 +214,7 @@
     "README.md",
     "CODE_OF_CONDUCT.md",
     "static/icon.png",
-    "daily/2023-07-10.md",
-    "daily/2023-07-11.md",
     "whiteboard.canvas",
-    "daily/2023-07-08.md",
-    "daily/2023-07-07.md",
     "pics/CleanShot 2023-06-28 at 09.53.43@2x.png"
   ]
 }
