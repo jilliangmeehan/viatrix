@@ -510,7 +510,7 @@ header {
 
   & > .section {
     display: flex;
-    align-items: center; 
+    align-items: left; 
 
     @media all and (max-width: 600px) {
       & .tags {
@@ -540,7 +540,6 @@ header {
 
   & .meta {
     opacity: 0.6;
-    display: block;
   }
 }
 
