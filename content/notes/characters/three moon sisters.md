@@ -7,7 +7,7 @@ draft: false
 * lived in [[the lunar palace]]
 * changed places 3x a month to ride around the heavens in a silver carriage; failure to switch places would result in disaster
 
-> [!NOTE] Title
+> [!NOTE]
 > i read a note on the wiki somewhere that said there's a mistranslation here — apparently the original chinese text makes it sound more like a failure to switch places would only be *caused* by a disaster, rather than the other way around.
 
 ## fall of the three [[notes/moon|moon]] sisters

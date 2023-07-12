@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/characters/three moon sisters.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/characters/three moon sisters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/characters/three moon sisters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/characters/three moon sisters.md"
               }
             }
           }
@@ -182,8 +182,8 @@
   },
   "active": "a79ca15b0fe0d0de",
   "lastOpenFiles": [
-    "content/_archive.md",
     "content/_index.md",
+    "content/_archive.md",
     "content/_index copy.md",
     "layouts/archive.html",
     "layouts/index copy.html",
