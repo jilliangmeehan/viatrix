@@ -22,8 +22,8 @@ html {
 }
 
 .singlePage {
-  padding: 4em 20vw;
-  @media all and (max-width: 1000px) {
+  padding: 4em 30vw;
+  @media all and (max-width: 1200px) {
     padding: 25px 5vw;
   }
 }
@@ -182,7 +182,7 @@ blockquote {
 article {
   & > h1 {
     margin-top: 2em;
-    font-size: 2em;
+    font-size: 1.4em;
   }
   
   & > .meta {
@@ -366,7 +366,7 @@ header {
   margin: 1em 0 2em;
 
   & > h1 {
-    font-size: 2em;
+    font-size: 1em;
   }
 
   & > nav {
