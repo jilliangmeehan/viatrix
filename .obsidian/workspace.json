@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/characters/playable/childe.md",
+                "file": "content/notes/characters/parsifal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/characters/playable/childe.md",
+                "file": "content/notes/characters/parsifal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/characters/playable/childe.md",
+                "file": "content/notes/characters/parsifal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/characters/playable/childe.md"
+                "file": "content/notes/characters/parsifal.md"
               }
             }
           }
@@ -196,8 +196,8 @@
   },
   "active": "3810a5912b5fe3d7",
   "lastOpenFiles": [
-    "content/notes/characters/parsifal.md",
     "content/notes/characters/playable/childe.md",
+    "content/notes/characters/parsifal.md",
     "content/notes/artifacts/sets/berserker.md",
     "content/notes/places/realms.md",
     "content/notes/characters/three moon sisters.md",
