@@ -1,6 +1,8 @@
 ---
 title: "artifacts"
 draft: false
+tags: 
+- artifacts
 ---
 
 something i keep noticing about artifact lore is that it's rarely linear. reading from [[notes/artifacts/flower of life]] to [[notes/artifacts/circlet of logos]] is never going to tell you a story from beginning to end. and even if you try to piece them together in the right order, you never really know if you're doing it correctly or not — there could be pieces within the description for *one artifact* that are told out of order. 

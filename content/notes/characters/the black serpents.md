@@ -1,6 +1,9 @@
 ---
 title: "the black serpents"
 draft: false
+tags:
+- mobs
+- khaenriah
 ---
 
 [thread of analysis](https://twitter.com/khaenrian/status/1509465162792722432?s=20&t=mr4LFKZosba9Fgq4BNhHgw)

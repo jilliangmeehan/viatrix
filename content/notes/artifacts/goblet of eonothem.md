@@ -1,6 +1,8 @@
 ---
 title: "goblet of eonothem"
 draft: false
+tags: 
+- artifacts
 ---
 
 ## what's an eonothem?

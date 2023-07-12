@@ -1,6 +1,8 @@
 ---
 title: "seelies"
 draft: false
+tags:
+- history
 ---
 
 ## fall of the seelies

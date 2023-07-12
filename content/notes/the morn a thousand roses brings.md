@@ -1,6 +1,9 @@
 ---
 title: "the morn a thousand roses brings"
 draft: false
+tags:
+- motifs
+- reference
 ---
 
 the title of this archon quest comes from [the rubaiyat of omar khayyam](http://www.davidgorman.com/rubaiyat.htm#:~:text=Each%20Morn%20a%20thousand%20Roses,take%20Jamshyd%20and%20Kaikobad%20away) — a very interesting poem with a lot of things that are very relevant to genshin lore. i highly recommend reading the whole thing, but i've pulled out a bunch of stanzas here that i wanted to make note of.

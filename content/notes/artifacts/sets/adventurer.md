@@ -1,6 +1,8 @@
 ---
 title: "adventurer"
 draft: false
+tags: 
+- artifacts
 ---
 
 this set might be based on [herman](https://genshin-impact.fandom.com/wiki/Herman).

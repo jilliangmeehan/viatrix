@@ -1,6 +1,8 @@
 ---
 title: "instructor"
 draft: false
+tags: 
+- artifacts
 ---
 
 i haven't looked into this set very much, so i have no theories about it yet. but there's a comment on [the wiki page](https://genshin-impact.fandom.com/wiki/Instructor) that says:

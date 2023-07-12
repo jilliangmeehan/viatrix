@@ -1,6 +1,8 @@
 ---
 title: "lucky dog"
 draft: false
+tags: 
+- artifacts
 ---
 i don't have any guesses as to who this artifact series is about, but it reminds me a lot of [[bennett]] — except bennett is obviously known to be very *unlucky.* 
 

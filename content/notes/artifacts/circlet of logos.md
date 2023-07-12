@@ -1,6 +1,8 @@
 ---
 title: "circlet of logos"
 draft: false
+tags: 
+- artifacts
 ---
 
 [*logos*](https://en.wikipedia.org/wiki/Logos#Gnosticism) is one of the three pillars of rhetoric, along with pathos and ethos. in that context, it represents reason and logic. 

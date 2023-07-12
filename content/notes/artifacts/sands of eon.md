@@ -1,6 +1,8 @@
 ---
 title: "sands of eon"
 draft: false
+tags: 
+- artifacts
 ---
 
 a lot of my thoughts & explanations on eons are [[notes/artifacts/goblet of eonothem|over here]], where i wrote about the "goblet of eonothem." tl;dr an *eonothem* refers to the huge layer of rock that covers the earth during a period of time, while an *eon* refers to the period of time itself. 

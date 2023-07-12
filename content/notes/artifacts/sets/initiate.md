@@ -1,6 +1,8 @@
 ---
 title: "initiate"
 draft: false
+tags: 
+- artifacts
 ---
 
 the initiate artifact set is unobtainable — you only see it on trial characters in quest domains. the only two pieces are the [[notes/artifacts/flower of life|flower of life]] and [[notes/artifacts/plume of death|plume of death]].

@@ -1,6 +1,8 @@
 ---
 title: "berserker"
 draft: false
+tags: 
+- artifacts
 ---
 
 we don't know who the berserker is, where his homeland was, what time period he lived in, or much of what happened to him. what we *do* know is that his home was destroyed by flames, caused by a war with the gods, and it turned him into a bloodthirsty fighter. 

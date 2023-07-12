@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/characters/parsifal.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/_index.md"
+              }
             }
           }
         ],
@@ -190,37 +194,37 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "be398109d844ddb5",
+  "active": "3810a5912b5fe3d7",
   "lastOpenFiles": [
+    "content/templates/post.md",
+    "content/_index.md",
     "content/notes/characters/parsifal.md",
-    "content/notes/artifacts/sets/tiny miracle.md",
-    "content/notes/artifacts/sets/traveling doctor.md",
-    "content/notes/artifacts/sands of eon.md",
-    "content/notes/01 - timeline.md",
-    "content/notes/characters/three moon sisters.md",
-    "content/notes/characters/the four shades.md",
-    "content/notes/characters/the primordial one.md",
-    "content/notes/characters/seelies.md",
-    "content/notes/characters/the black serpents.md",
+    "content/notes/the morn a thousand roses brings.md",
+    "content/notes/sun.md",
     "content/notes/rose.md",
     "content/notes/moon.md",
-    "content/notes/sun.md",
+    "content/notes/01 - timeline.md",
+    "content/notes/characters/three moon sisters.md",
+    "content/notes/characters/the primordial one.md",
+    "content/notes/characters/the four shades.md",
+    "content/notes/characters/the black serpents.md",
+    "content/notes/characters/seelies.md",
     "content/notes/characters/playable/childe.md",
-    "content/notes/artifacts/sets/berserker.md",
-    "content/notes/places/realms.md",
-    "content/_index.md",
-    "content/_archive.md",
-    "content/_index copy.md",
-    "layouts/archive.html",
-    "layouts/index copy.html",
-    "content/notes/the morn a thousand roses brings.md",
-    "content/notes/artifacts/sets/resolution of sojourner.md",
-    "content/notes/artifacts/sets/adventurer.md",
-    "content/notes/artifacts/artifacts.md",
+    "content/notes/artifacts/sands of eon.md",
+    "content/notes/artifacts/plume of death.md",
+    "content/notes/artifacts/goblet of eonothem.md",
     "content/notes/artifacts/flower of life.md",
     "content/notes/artifacts/circlet of logos.md",
+    "content/notes/artifacts/artifacts.md",
+    "content/notes/artifacts/sets/traveling doctor.md",
+    "content/notes/artifacts/sets/tiny miracle.md",
+    "content/notes/artifacts/sets/resolution of sojourner.md",
+    "content/notes/artifacts/sets/lucky dog.md",
+    "content/notes/artifacts/sets/instructor.md",
+    "content/notes/artifacts/sets/initiate.md",
+    "layouts/archive.html",
+    "layouts/index copy.html",
     "content/notes/images/wiki_khayyam.png",
-    "content/templates/post.md",
     "screenshot.png",
     "content/Untitled.canvas",
     "static/icon.png",

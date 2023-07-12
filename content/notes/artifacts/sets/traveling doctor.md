@@ -1,6 +1,8 @@
 ---
 title: "traveling doctor"
 draft: false
+tags: 
+- artifacts
 ---
 
 ## [[notes/artifacts/flower of life|traveling doctor's silver lotus]]

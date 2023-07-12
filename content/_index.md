@@ -3,7 +3,7 @@ title: "welcome | teyvat lore garden"
 enableToc: false
 ---
 
-hi hello good morning :)
+hi :)
 
 ## what is this?
 this is a little personal project i'm working on to keep track of my notes & thoughts about lore in genshin impact. it's not a wiki, it's not perfect or comprehensive, and it's very much a constant work in progress.

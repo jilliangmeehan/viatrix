@@ -1,6 +1,8 @@
 ---
 title: "resolution of sojourner"
 draft: false
+tags: 
+- artifacts
 ---
 
 this artifact set is — surprise! — about [[the sojourner]] of the [[wanderers’ troupe]]. it tells part of the story of the four members meeting each other and forming the troupe, as well as their failed uprising against the mondstadt aristocrats. 

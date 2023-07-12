@@ -1,6 +1,9 @@
 ---
 title: "three moon sisters"
 draft: false
+tags:
+- celestia
+- history
 ---
 
 * aria, sonnet, and canon

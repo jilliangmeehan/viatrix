@@ -1,6 +1,11 @@
 ---
 title: "parsifal"
 draft: false
+tags:
+- history
+- mondstadt
+- characters
+- reference
 ---
 
 ## tl;dr

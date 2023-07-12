@@ -1,6 +1,8 @@
 ---
 title: "moon"
 draft: false
+tags:
+- motifs
 ---
 
 the moon represents **illusions and lies**.
