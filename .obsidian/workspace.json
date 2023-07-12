@@ -129,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/characters/parsifal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/characters/parsifal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,9 +166,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/notes/characters/parsifal.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -194,8 +190,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3810a5912b5fe3d7",
+  "active": "be398109d844ddb5",
   "lastOpenFiles": [
+    "content/notes/characters/parsifal.md",
     "content/notes/artifacts/sets/tiny miracle.md",
     "content/notes/artifacts/sets/traveling doctor.md",
     "content/notes/artifacts/sands of eon.md",
@@ -205,7 +202,6 @@
     "content/notes/characters/the primordial one.md",
     "content/notes/characters/seelies.md",
     "content/notes/characters/the black serpents.md",
-    "content/notes/characters/parsifal.md",
     "content/notes/rose.md",
     "content/notes/moon.md",
     "content/notes/sun.md",
