@@ -3,7 +3,7 @@ title: "parsifal"
 draft: false
 ---
 
-tl;dr of his story:
+## tl;dr
 * mondstadt aristocrat from 1000 years ago, heir to the landrich family
 * two brothers: eberhart (illegitimate heir) & ingbert (legitimate heir)
 * parcifal became a “phantom thief” and stole from the aristocracy to give to the poor etc
