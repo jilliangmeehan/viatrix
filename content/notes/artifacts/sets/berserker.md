@@ -51,7 +51,7 @@ what was "his last challenge" and why did that, specifically, make his life "des
 > 
 > The berserker sucked out the marrow of the monster's broken horn. This was how the victor drank to his success.
 
-this reminds me a lot of [[childe]]’s lore. maybe the "barren and lifeless land" was his destroyed homeland, or maybe it was the abyss. maybe the giant monster he encountered was the same one childe fought (or similar). "hours, days, and years passed" also seems related to the way time is warped in the abyss — childe was there for months, but only three days had passed in teyvat. 
+this reminds me a lot of [[childe]]’s lore. maybe the "barren and lifeless land" was his destroyed homeland, or maybe it was the abyss. maybe the giant monster he encountered was the same one [[notes/characters/playable/childe|childe]] fought (or similar). "hours, days, and years passed" also seems related to the way time is warped in the abyss — [[notes/characters/playable/childe|childe]] was there for months, but only three days had passed in teyvat. 
 
 returning to what i said above about the **berserker's timepiece**: he successfully defeated this monster, but could this still have been his "last challenge"? 
 
