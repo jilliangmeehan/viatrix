@@ -185,6 +185,8 @@
   },
   "active": "604b9cfec8882f10",
   "lastOpenFiles": [
+    "static/icon.png",
+    "static/Item_Cecilia.png",
     "static/cecilia.svg",
     "static/Item_Cecilia_edge.svg",
     "layouts/partials/cecilia.html",
@@ -223,7 +225,6 @@
     "content/notes/images/wiki_khayyam.png",
     "screenshot.png",
     "content/Untitled.canvas",
-    "static/icon.png",
     "whiteboard.canvas",
     "pics/CleanShot 2023-06-28 at 09.53.43@2x.png"
   ]
