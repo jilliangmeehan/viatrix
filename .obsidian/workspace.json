@@ -23,25 +23,12 @@
             }
           },
           {
-            "id": "74546cb9a1b856eb",
+            "id": "7718dc240e92c066",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "content/notes/reference/childe harold.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a11c3c6f8c42e44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/characters/playable/childe.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -196,14 +183,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "74546cb9a1b856eb",
+  "active": "7718dc240e92c066",
   "lastOpenFiles": [
-    "content/notes/rose.md",
+    "content/notes/places/realms.md",
     "content/notes/reference/childe harold.md",
     "content/notes/characters/playable/childe.md",
+    "content/notes/rose.md",
     "content/notes/characters/parsifal.md",
     "content/notes/reference",
-    "content/notes/places/realms.md",
     "content/_index.md",
     "content/templates/post.md",
     "content/notes/the morn a thousand roses brings.md",

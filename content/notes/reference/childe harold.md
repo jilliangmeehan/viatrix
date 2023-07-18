@@ -320,15 +320,28 @@ just another very cool passage that i love.
 
 ---
 
+**canto the third, lxxxviii:**
+> Ye stars! which are the poetry of heaven,
+> 
+> If in your bright leaves we would read the fate
+> 
+> Of men and empires,—'tis to be forgiven,
+> 
+> That in our aspirations to be great,
+> 
+> Our destinies o'erleap their mortal state,
+> 
+> And claim a kindred with you; for ye are
+> 
+> A beauty and a mystery, and create
+> 
+> In us such love and reverence from afar,
+> 
+> That fortune, fame, power, life, have named themselves a star.
 
-
-
+a bit about the stars, and destiny.
 
 ---
 
 
-
-
-
----
 
