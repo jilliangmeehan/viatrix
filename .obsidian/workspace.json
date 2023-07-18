@@ -183,12 +183,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7718dc240e92c066",
+  "active": "604b9cfec8882f10",
   "lastOpenFiles": [
-    "content/notes/reference/childe harold.md",
-    "content/notes/images/cecilia.svg",
+    "layouts/partials/cecilia.html",
+    "Item_Cecilia_edge-min.svg",
     "cecilia.svg",
     "Item_Cecilia_edge.svg",
+    "content/notes/reference/childe harold.md",
+    "content/notes/images/cecilia.svg",
     "content/notes/places/realms.md",
     "content/notes/characters/playable/childe.md",
     "content/notes/rose.md",
