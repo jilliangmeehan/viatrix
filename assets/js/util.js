@@ -2,11 +2,11 @@
 const removeMarkdown = (
   markdown,
   options = {
-    listUnicodeChar: true,
+    listUnicodeChar: false,
     stripListLeaders: true,
     gfm: true,
     useImgAltText: false,
-    preserveLinks: true,
+    preserveLinks: false,
   },
 ) => {
   let output = markdown || ""
