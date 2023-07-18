@@ -1,10 +1,42 @@
-// Replace this with your own font imports!
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Inter:wght@400;600;700&family=Source+Sans+Pro:wght@400;600&display=swap');
+@font-face {
+  font-family: 'iA Writer Quattro S';
+  src: url('assets/fonts/iAWriterQuattroS-Regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'iA Writer Quattro S';
+  src: url('assets/fonts/iAWriterQuattroS-Italic.woff2') format('woff2');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'iA Writer Quattro S';
+  src: url('assets/fonts/iAWriterQuattroS-Bold.woff2') format('woff2');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'iA Writer Quattro S';
+  src: url('assets/fonts/iAWriterQuattroS-BoldItalic.woff2') format('woff2');
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'SF Compact Rounded';
+  src: url('assets/fonts/SF-Compact-Rounded-Regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'SF Compact Rounded';
+  src: url('assets/fonts/SF-Compact-Rounded-Bold.woff2') format('woff2');
+  font-weight: 700;
+}
 
 :root {
-  --font-body: "iA Writer Quattro S", "SF Pro Rounded", sans-serif, "Source Sans Pro";
-  --font-header: "SF Compact Rounded", "SF Pro Rounded", sans-serif, "Inter";
-  --font-mono: "Fira Code"
+  --font-body: "iA Writer Quattro S", "SF Pro Rounded", sans-serif;
+  --font-header: "SF Compact Rounded", "SF Pro Rounded", sans-serif;
+  --font-mono: "iA Writer Quattro S", monospace;
 }
 
 // typography
