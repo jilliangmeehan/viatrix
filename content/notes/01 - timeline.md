@@ -3,6 +3,10 @@ title: "timeline"
 draft: false
 ---
 
+this is a very work-in-progress overview of the timeline & history of teyvat — as far as we know it, i guess. most of this is pulled from the [wiki](https://genshin-impact.fandom.com/wiki/Timeline), so if you're looking for something more comprehensive, that's the place to go.
+
+much of the genshin timeline is still very speculative. we don't really know for sure when certain things happened or what the exact order of events was. but i'm hoping that laying it all out here will help me start to make some sense of it.
+
 ## the old world: ~6k years ago
 * the seven nations were ruled by [[the seven sovereigns]] — primordial dragons from the [[notes/places/realms|vishap realm]]
 * [[notes/characters/the primordial one|the primordial one]] ("eternal throne of the heavens") appeared along with its [[notes/characters/the four shades|"four shining shades of itself"]] & challenged [[the seven sovereigns]]
