@@ -1,6 +1,6 @@
 ---
 title: "realms"
-draft: true
+draft: false
 ---
 
 ## the three realms
