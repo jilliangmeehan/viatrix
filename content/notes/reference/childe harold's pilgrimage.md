@@ -6,7 +6,9 @@ tags:
 ---
 [childe harold's pilgrimage](https://en.wikipedia.org/wiki/Childe_Harold%27s_Pilgrimage?useskin=vector) is a narrative poem by lord byron that i think relates to [[notes/characters/playable/childe|childe]]. i'm still making my way through it, so i don't have any grand analysis or anything — but i wanted to keep track of some interesting excerpts here.
 
-canto the first, vi:
+---
+
+**canto the first, vi:**
 > Apart he stalked in joyless reverie,
 > 
 > And from his native land resolved to go,
@@ -21,7 +23,7 @@ wanting to leave home so badly he'd seek out the abyss. maybe the abyss was call
 
 ---
 
-canto the first, viii:
+**canto the first, viii:**
 > Yet ofttimes in his maddest mirthful mood,
 > 
 > Strange pangs would flash along Childe Harold's brow,
@@ -44,7 +46,7 @@ foul legacy & the traces of the abyss lurking inside him.
 
 ---
 
-canto the first, xiii:
+**canto the first, xiii:**
 > And now I'm in the world alone,
 > 
 > Upon the wide, wide sea;
@@ -57,7 +59,7 @@ childe harold has set out on the sea and is wishing his homeland goodnight. one 
 
 ---
 
-canto the first, xxvii:
+**canto the first, xxvii:**
 > His early youth misspent in maddest whim;
 > 
 > But as he gazed on Truth, his aching eyes grew dim.
@@ -66,7 +68,7 @@ this seems to basically be about childe harold traveling around and contemplatin
 
 ---
 
-canto the first, lxii:
+**canto the first, lxii:**
 > Happier in this than mightiest bards have been,
 > 
 > Whose fate to distant homes confined their lot,
@@ -89,7 +91,7 @@ here, he's talking about mount parnassus. (truly nothing to say about this, just
 
 ---
 
-canto the first, lxxxii:
+**canto the first, lxxxii:**
 > Oh! many a time and oft had Harold loved,
 > 
 > Or dreamed he loved, since rapture is a dream;
@@ -112,7 +114,7 @@ i can barely decipher what this means, but i do know the [river lethe](https://e
 
 ---
 
-canto the first, lxxxiv, to inez:
+**canto the first, lxxxiv, to inez:**
 > And dost thou ask what secret woe
 > 
 > I bear, corroding joy and youth?
