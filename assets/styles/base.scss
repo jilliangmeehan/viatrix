@@ -589,7 +589,7 @@ header {
   }
 
   & > h3 {
-    font-size: 0.8rem;
+    font-size: 1rem;
     margin: 0.25rem 0;
   }
 
@@ -603,10 +603,10 @@ header {
   & > p {
     margin: 0;
     padding: 0.5rem 0;
+    font-size: 0.8rem;
   } 
 
   & > p, & > a {
-    font-size: 0.8rem;
     font-weight: 400;
     user-select: none;
   }
