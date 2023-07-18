@@ -340,8 +340,3 @@ just another very cool passage that i love.
 > That fortune, fame, power, life, have named themselves a star.
 
 a bit about the stars, and destiny.
-
----
-
-
-

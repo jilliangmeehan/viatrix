@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/characters/playable/childe.md",
+                "file": "content/notes/reference/childe harold.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/characters/playable/childe.md",
+                "file": "content/notes/reference/childe harold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/characters/playable/childe.md",
+                "file": "content/notes/reference/childe harold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/characters/playable/childe.md"
+                "file": "content/notes/reference/childe harold.md"
               }
             }
           }
@@ -183,8 +183,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "604b9cfec8882f10",
+  "active": "7718dc240e92c066",
   "lastOpenFiles": [
+    "content/notes/characters/playable/childe.md",
     "static/fonts/iAWriterQuattroS-Regular.woff2",
     "static/fonts/iAWriterQuattroS-Italic.woff2",
     "static/fonts/iAWriterQuattroS-BoldItalic.woff2",
@@ -195,7 +196,6 @@
     "assets/styles/fonts/iAWriterQuattroS-Regular.woff2",
     "assets/styles/fonts/iAWriterQuattroS-Italic.woff2",
     "assets/styles/fonts/iAWriterQuattroS-BoldItalic.woff2",
-    "assets/styles/fonts/iAWriterQuattroS-Bold.woff2",
     "static/icon.png",
     "static/Item_Cecilia.png",
     "static/cecilia.svg",
@@ -206,7 +206,6 @@
     "content/notes/reference/childe harold.md",
     "content/notes/images/cecilia.svg",
     "content/notes/places/realms.md",
-    "content/notes/characters/playable/childe.md",
     "content/notes/rose.md",
     "content/notes/characters/parsifal.md",
     "content/_index.md",
