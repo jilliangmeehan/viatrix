@@ -10,7 +10,7 @@ childe rowland is a [fairy tale](https://en.wikipedia.org/wiki/Childe_Rowland?us
 shakespeare references the character with a line in king lear — *"Childe Rowland to the dark tower came"* — which then inspired the robert browning poem, "[childe roland to the dark tower came](https://fivers.typepad.com/files/childe-roland-to-the-dark-tower-came.pdf)." 
 
 ## synopsis
-in the original fairy tale, childe rowland's younger sister goes missing after walking around the church in the opposite way of the [[sun]] to look for their lost ball. he and his brothers go to merlin (yeah, that merlin) to ask if he knew where she was — to which merlin replies:
+in the original fairy tale, childe rowland's younger sister goes missing after walking around the church in the opposite way of the [[notes/sun|sun]] to look for their lost ball. he and his brothers go to merlin (yeah, that merlin) to ask if he knew where she was — to which merlin replies:
 
 > She is now in the Dark Tower of the King of [Elfland](https://en.wikipedia.org/w/index.php?title=%C3%81lfheimr&useskin=vector); it would take the boldest knight in Christendom to bring her back.
 
