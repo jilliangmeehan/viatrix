@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/reference/childe harold.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -48,7 +48,7 @@
       {
         "id": "bbfbb444bbb7feb5",
         "type": "tabs",
-        "dimension": 65.73849878934624,
+        "dimension": 56.90072639225182,
         "children": [
           {
             "id": "604b9cfec8882f10",
@@ -88,7 +88,7 @@
       {
         "id": "4190418494ba0f47",
         "type": "tabs",
-        "dimension": 34.261501210653755,
+        "dimension": 43.09927360774818,
         "children": [
           {
             "id": "be398109d844ddb5",
@@ -102,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 297.5
   },
   "right": {
     "id": "bfb6f9916938360f",
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/reference/childe harold.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/reference/childe harold.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/reference/childe harold.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -185,8 +185,11 @@
   },
   "active": "7718dc240e92c066",
   "lastOpenFiles": [
-    "content/notes/places/realms.md",
     "content/notes/reference/childe harold.md",
+    "content/notes/images/cecilia.svg",
+    "cecilia.svg",
+    "Item_Cecilia_edge.svg",
+    "content/notes/places/realms.md",
     "content/notes/characters/playable/childe.md",
     "content/notes/rose.md",
     "content/notes/characters/parsifal.md",
@@ -211,7 +214,6 @@
     "content/notes/artifacts/sets/traveling doctor.md",
     "content/notes/artifacts/sets/tiny miracle.md",
     "content/notes/artifacts/sets/resolution of sojourner.md",
-    "content/notes/artifacts/sets/lucky dog.md",
     "layouts/archive.html",
     "layouts/index copy.html",
     "content/notes/images/wiki_khayyam.png",
