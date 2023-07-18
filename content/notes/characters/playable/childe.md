@@ -50,12 +50,7 @@ i think there are a few other sources of inspiration for childe's title, though.
 
 i'm still making my way through this one, but i definitely see some of the inspiration for childe — the way he's always traveling far away from home, never quite satisfied. the way he's lonely. 
 
-another is a poem by robert browning, "[childe rowland to the dark tower came](https://fivers.typepad.com/files/childe-roland-to-the-dark-tower-came.pdf)," which is based on a [fairy tale](https://en.wikipedia.org/wiki/Childe_Rowland?useskin=vector). the story of childe rowland going to the dark tower definitely reminds me of childe falling into the abyss as a kid.
-
-
-> [!NOTE]
-> i found two versions of the childe rowland fairy tale online: [1](https://archive.org/details/englishfairytale1902jaco/page/122/mode/2up), [2](https://archive.org/details/dictionaryofbrit01brig/page/180/mode/2up).
-
+i also came across a fairy tale called [[content/notes/reference/childe rowland]], which inspired robert browning's poem "[childe rowland to the dark tower came](https://fivers.typepad.com/files/childe-roland-to-the-dark-tower-came.pdf)." the story of childe rowland going to the dark tower reminds me somewhat of childe falling into the abyss as a kid.
 
 ### tartaglia
 [tartaglia](https://en.wikipedia.org/wiki/Tartaglia_(commedia_dell%27arte)?useskin=vector) is one of the commedia dell'arte stock characters — i don't know a ton about commedia dell'arte, and it's weirdly difficult to dig into it online, so unfortunately i have nothing to offer here. for some of the other harbingers, it's not too hard to figure out why they've been given the role they have, but i'm not really sure where we're going with "tartaglia" yet.

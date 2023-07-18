@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/characters/playable/childe.md",
+                "file": "content/notes/reference/childe rowland.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/characters/playable/childe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/characters/playable/childe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/notes/characters/playable/childe.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -183,13 +179,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7718dc240e92c066",
+  "active": "be398109d844ddb5",
   "lastOpenFiles": [
+    "content/notes/reference/childe rowland.md",
+    "content/notes/reference/childe harold.md",
+    "content/notes/characters/playable/childe.md",
     "content/_index.md",
     "content/notes/01 - timeline.md",
     "content/notes/the morn a thousand roses brings.md",
-    "content/notes/reference/childe harold.md",
-    "content/notes/characters/playable/childe.md",
     "static/fonts/iAWriterQuattroS-Regular.woff2",
     "static/fonts/iAWriterQuattroS-Italic.woff2",
     "static/fonts/iAWriterQuattroS-BoldItalic.woff2",
