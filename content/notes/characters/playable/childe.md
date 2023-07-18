@@ -29,7 +29,8 @@ then, we get to the real heart of the play (& my favorite part): teucer finds hi
 >
 >**TEUCER**: So the gods saved you and now you dishonor the gods?
 
-*(i really just think teucer's dialogue in this section goes so hard.)*
+> [!NOTE]
+> *(i really just think teucer's dialogue in this section goes so hard.)*
 
 eventually, odysseus convinces agamemnon and menelaus that even their enemies deserve proper burials, that failure to do so would be to go against the will of the gods. i find it so interesting that the play opens with odysseus talking shit about ajax to athena, and ends with him defending ajax & offering to help teucer with the burial.
 
