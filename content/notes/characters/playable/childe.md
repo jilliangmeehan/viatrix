@@ -44,7 +44,7 @@ the final lines of the play, spoken by the chorus, are:
 ### childe
 *childe* is a term for a "young lord" who has not yet achieved knighthood. if we just leave it there, it does make sense. he's the youngest of the harbingers, with the most to prove.
 
-i think there are a few other sources of inspiration for childe's title, though. one of them is [[notes/reference/childe harold|childe harold|childe harold's pilgrimage]], a narrative poem by lord byron:
+i think there are a few other sources of inspiration for childe's title, though. one of them is [[notes/reference/childe harold|childe harold's pilgrimage]], a narrative poem by lord byron:
 
 > it describes the travels and reflections of a world-weary young man, who is disillusioned with a life of pleasure and revelry and looks for distraction in foreign lands
 
