@@ -4,7 +4,7 @@ const removeMarkdown = (
   options = {
     listUnicodeChar: false,
     stripListLeaders: true,
-    gfm: true,
+    gfm: false,
     useImgAltText: false,
     preserveLinks: false,
   },
