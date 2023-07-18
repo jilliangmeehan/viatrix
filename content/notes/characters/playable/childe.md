@@ -12,6 +12,8 @@ the name "ajax" comes from [the greek hero](https://en.wikipedia.org/wiki/Ajax_t
 
 obviously, he's mentioned in the iliad. he's also a prominent character in [troilus and cressida](https://shakespeare.mit.edu/troilus_cressida/full.html), where he is chosen to fight hector in one-on-one combat in place of achilles, who is busy wallowing and being depressed. (achilles does end up killing hector to avenge patroclus, before being killed himself.) the other greeks spend a lot of time making fun of him in this play — it's honestly very funny, and i recommend reading it.
 
+as with all other names pulled from greek mythology in genshin, we can assume the name ajax comes from [[enkanomiya]] (or the ancient [[unified civilization]], of which enkanomiya was just a part). this + his weapon looking suspiciously like the ones all over enkanomiya is pretty interesting. 
+
 #### sophocles
 i also recommend reading sophocles' [ajax](https://classics.domains.skidmore.edu/lit-campus-only/primary/translations/Sophocles%20Ajax.pdf), which tells the story of his death. immediately following the events of the iliad, ajax is upset because he thinks he should have been given achilles' armor after his death, but it was given to odysseus instead. 
 
@@ -41,7 +43,7 @@ the final lines of the play, spoken by the chorus, are:
 ### childe
 *childe* is a term for a "young lord" who has not yet achieved knighthood. if we just leave it there, it does make sense. he's the youngest of the harbingers, with the most to prove.
 
-i think there are a few other sources of inspiration for childe's title, though. one of them is [childe harold's pilgrimage](https://en.wikipedia.org/wiki/Childe_Harold%27s_Pilgrimage?useskin=vector), a narrative poem by lord byron:
+i think there are a few other sources of inspiration for childe's title, though. one of them is [[notes/reference/childe harold's pilgrimage|childe harold's pilgrimage]], a narrative poem by lord byron:
 
 > it describes the travels and reflections of a world-weary young man, who is disillusioned with a life of pleasure and revelry and looks for distraction in foreign lands
 
