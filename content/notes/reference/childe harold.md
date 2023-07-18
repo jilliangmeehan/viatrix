@@ -143,3 +143,192 @@ what's his secret? he's tired.
 
 ---
 
+**canto the second, xxviii:**
+> Pass we the long, unvarying course, the track
+> 
+> Oft trod, that never leaves a trace behind;
+> 
+> Pass we the calm, the gale, the change, the tack,
+> 
+> And each well-known caprice of wave and wind;
+> 
+> Pass we the joys and sorrows sailors find,
+> 
+> Cooped in their winged sea-girt citadel;
+> 
+> The foul, the fair, the contrary, the kind,
+> 
+> As breezes rise and fall, and billows swell,
+> 
+> Till on some jocund morn—lo, land! and all is well.
+
+it's really not very similar at all, but this passage reminds me so much of the [[polar star]] weapon description for some reason:
+
+> Oft have we walked in the moonless night.
+> 
+> Oft have we trudged through the gilded sands.
+> 
+> Oft have we felt piercing enmity in the dark,
+> 
+> And oft have we dreamed of lovers in distant hometowns. 
+> 
+> But the pale flame yet burns in our breasts.
+
+the key difference being that no flame burns in childe harold's breast — so much of this poem seems to be about how unmoved he is by what he sees. the passages following this one refer to him as *“a youth so raw / Nor felt, nor feigned at least, the oft-told flames”* and describe his heart as *"seeming marble ... Now masked by silence or withheld by pride."* 
+
+---
+
+**canto the second, xliii:**
+> Now Harold felt himself at length alone,
+> 
+> And bade to Christian tongues a long adieu:
+> 
+> Now he adventured on a shore unknown,
+> 
+> Which all admire, but many dread to view:
+> 
+> His breast was armed 'gainst fate, his wants were few:
+> 
+> Peril he sought not, but ne'er shrank to meet:
+> 
+> The scene was savage, but the scene was new;
+> 
+> This made the ceaseless toil of travel sweet,
+> 
+> Beat back keen winter's blast; and welcomed summer's heat.
+
+this dude is so sagittarius-coded. another major difference from our childe, lol.
+
+---
+
+**canto the third, v:**
+> He who, grown aged in this world of woe,
+> 
+> In deeds, not years, piercing the depths of life,
+> 
+> So that no wonder waits him;
+
+this stuck out to me — young ajax falling into the abyss, unaffected by time, aging not in days or months or years but in experience. he *did* pierce the depths of life, kind of literally.
+
+---
+
+**canto the third, viii:**
+> Long-absent Harold reappears at last;
+> 
+> He of the breast which fain no more would feel,
+> 
+> Wrung with the wounds which kill not, but ne'er heal;
+> 
+> Yet Time, who changes all, had altered him
+> 
+> In soul and aspect as in age: years steal
+> 
+> Fire from the mind as vigour from the limb;
+> 
+> And life's enchanted cup but sparkles near the brim.
+
+this, again, feels reminiscent of childe's trip to the abyss & his foul legacy transformation.
+
+immediately continuing from there, in **ix:**
+> His had been quaffed too quickly, and he found
+> 
+> The dregs were wormwood; but he filled again,
+> 
+> And from a purer fount, on holier ground,
+> 
+> And deemed its spring perpetual; but in vain!
+> 
+> Still round him clung invisibly a chain
+> 
+> Which galled for ever, fettering though unseen,
+> 
+> And heavy though it clanked not; worn with pain,
+> 
+> Which pined although it spoke not, and grew keen,
+> 
+> Entering with every step he took through many a scene.
+
+this reminds me of the vessels of wine being refilled in [[notes/the morn a thousand roses brings|the morn a thousand roses brings]]. also thinking about the foul legacy transformation slowly eroding his body & soul every time he uses it — healing himself in vain.
+
+---
+
+**canto the third, xi:**
+> But who can view the ripened [[notes/rose|rose]], nor seek
+> 
+> To wear it?
+
+would love to know what this means.
+
+---
+
+**canto the third, xiii:**
+> Where rose the mountains, there to him were friends;
+> 
+> Where rolled the ocean, thereon was his home;
+> 
+> Where a blue sky, and glowing clime, extends,
+> 
+> He had the passion and the power to roam;
+> 
+> The desert, forest, cavern, breaker's foam,
+> 
+> Were unto him companionship; they spake
+> 
+> A mutual language, clearer than the tome
+> 
+> Of his land's tongue, which he would oft forsake
+> 
+> For nature's pages glassed by sunbeams on the lake.
+
+this + the passage preceding it are about finding contentment and companionship with nature in solitude, rather than with other people. another form of loneliness and self-imposed exile, i think — and, in fact, a few stanzas later it says *“Self-exiled Harold wanders forth again.”*
+
+---
+
+**canto the third, xxxii:**
+> They mourn, but smile at length; and, smiling, mourn:
+> 
+> The tree will wither long before it fall:
+> 
+> The hull drives on, though mast and sail be torn;
+> 
+> The roof-tree sinks, but moulders on the hall
+> 
+> In massy hoariness; the ruined wall
+> 
+> Stands when its wind-worn battlements are gone;
+> 
+> The bars survive the captive they enthral;
+> 
+> The day drags through though storms keep out the sun;
+> 
+> And thus the heart will break, yet brokenly live on:
+
+this is one of my favorite stanzas. i just think it's beautiful — and it also feels fitting within the context of genshin. we see ruins of forgotten civilizations all the time, fragments of eroded memories lost to time. we know this cycle will continue. and thus the heart will break, yet brokenly live on!!!
+
+---
+
+**canto the third, xxxiii:**
+> E'en as a broken mirror, which the glass
+> 
+> In every fragment multiplies; and makes
+> 
+> A thousand images of one that was,
+> 
+> The same, and still the more, the more it breaks;
+
+just another very cool passage that i love.
+
+---
+
+
+
+
+
+---
+
+
+
+
+
+---
+

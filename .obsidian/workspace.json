@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/characters/playable/childe.md",
+                "file": "content/notes/reference/childe harold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/characters/playable/childe.md",
+                "file": "content/notes/reference/childe harold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/characters/playable/childe.md"
+                "file": "content/notes/reference/childe harold.md"
               }
             }
           }
@@ -195,8 +196,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a79ca15b0fe0d0de",
+  "active": "74546cb9a1b856eb",
   "lastOpenFiles": [
+    "content/notes/rose.md",
     "content/notes/reference/childe harold.md",
     "content/notes/characters/playable/childe.md",
     "content/notes/characters/parsifal.md",
@@ -206,7 +208,6 @@
     "content/templates/post.md",
     "content/notes/the morn a thousand roses brings.md",
     "content/notes/sun.md",
-    "content/notes/rose.md",
     "content/notes/moon.md",
     "content/notes/01 - timeline.md",
     "content/notes/characters/three moon sisters.md",
