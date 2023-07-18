@@ -232,6 +232,7 @@ article {
   }
 
   & > li > a {
+    color: var(--primary);
     border-radius: 8px;
     border: var(--outlinegray) 1px solid;
     padding: 0.2em 0.5em;
