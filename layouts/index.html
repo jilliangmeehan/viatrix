@@ -8,8 +8,8 @@
     <!-- Begin actual content -->
     {{partial "header.html" .}}
     <article>
-        {{partial "cecilia.html" .}}
         {{partial "toc.html" .}}
+        <img id="cecilia" src="/cecilia.svg">
         {{partial "textprocessing.html" . }}
         {{if $.Site.Data.config.enableRecentNotes}}
           {{partial "recent.html" . }}
