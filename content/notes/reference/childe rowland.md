@@ -26,9 +26,9 @@ he eventually finds his sister in elfland, who tells him that their two other br
 at that moment, the elf king comes in with the classic *"fee, fi, fo, fum"* and childe rowland fights him for the lives of his siblings. he wins, and agrees to spare the king's life if he lets his brothers and sister leave unharmed — and then all is well.
 
 ## thoughts
-obviously, this story loosely makes me think of [[notes/characters/playable/childe|childe]] falling into the abyss and barely making it out alive. the dark tower itself reminds me of [[khaenri’ah]] and the [three realms gateway offering](https://genshin-impact.fandom.com/wiki/Three_Realms_Gateway_Offering) event in [[enkanomiya]]. 
+obviously, this story loosely makes me think of [[notes/characters/playable/childe|childe]] falling into the [[notes/reference/abyss|abyss]] and barely making it out alive. the dark tower itself reminds me of [[notes/reference/khaenriah|khaenri'ah]] and the [three realms gateway offering](https://genshin-impact.fandom.com/wiki/Three_Realms_Gateway_Offering) event in [[notes/places/enkanomiya|enkanomiya]]. 
 
-the idea of a "dark tower" being found in the [[content/notes/places/realms|light realm]] is so interesting to me — especially if you *do* relate it to the [[abyss]] or khaenri'ah. definitely fits with the whole **light vs. dark =/= good vs. evil** theme throughout genshin.
+the idea of a "dark tower" being found in the [[notes/places/realms|light realm]] is so interesting to me — especially if you *do* relate it to the abyss or khaenri'ah. definitely fits with the whole **light vs. dark =/= good vs. evil** theme throughout genshin.
 
 the other thing this fairy tale reminds me of is the [gnostic chorus](https://www.youtube.com/watch?v=E0pkwZVL_GQ) story from the battle pass: the crowned heir being deceived while looking for the genesis pearl in the kingdom of darkness, and the second crowned heir following them to *"take up the path where the first had stumbled."*
 

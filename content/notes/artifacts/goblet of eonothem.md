@@ -28,7 +28,7 @@ as for the etymology of "archean," via [wikipedia](https://en.wikipedia.org/wiki
 another thing i think is interesting:
 > The [Earth](https://en.wikipedia.org/wiki/Earth "Earth") during the Archean was mostly a water world: there was [continental crust](https://en.wikipedia.org/wiki/Continental_crust "Continental crust"), but much of it was under an ocean deeper than today's ocean.
 
-we're starting to get more and more hints about teyvat's ocean — i definitely believe that there's a lot underwater that we haven't even heard about yet. not to mention [[enkanomiya]].
+we're starting to get more and more hints about teyvat's ocean — i definitely believe that there's a lot underwater that we haven't even heard about yet. not to mention [[notes/places/enkanomiya|enkanomiya]].
 
 ## ok so what does it mean?
 i don't know why they chose the goblet, specifically, as a symbol of eonothems. maybe it's linked to the [tarot suit of cups](https://en.wikipedia.org/wiki/Suit_of_goblets), which pertains to emotions, intuition, spirituality, and water. or maybe it's referencing the [holy grail](https://en.wikipedia.org/wiki/Holy_Grail), symbolizing healing & infinite sustenance. idk! the descriptions of a lot of goblet pieces tend to be related to good, triumphant feelings, or happier times — or just times when someone was drinking.

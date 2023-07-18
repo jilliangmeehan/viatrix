@@ -30,7 +30,7 @@ this could be about any ancient civilization — and it doesn't really matte
 (the feather looks like a peacock feather — what "continent" are they seen on?)
 
 ## [[notes/artifacts/sands of eon|adventurer's pocket watch]]
-*"It's easy to lose track of time when you're adventuring where the [[notes/sun|sun]] doesn't shine, whether that's the depths of the abyss or the ruins of a lost city."*
+*"It's easy to lose track of time when you're adventuring where the [[notes/sun|sun]] doesn't shine, whether that's the depths of the [[notes/reference/abyss|abyss]] or the ruins of a lost city."*
 > A pocket watch that once belonged to an adventurer. It was crafted by a master watchmaker with simplicity and practicality in mind, aligning with the philosophy of the [[Adventurers' Guild]].  
 > 
 > The adventurer spent most of his days in darkness. The rhythmic sound of its moving hands was the only proof he had of the passage of time. 
@@ -53,7 +53,7 @@ this could be about any ancient civilization — and it doesn't really matte
 > 
 > Just like the bandana, its wearer was an unexceptional, ordinary person.  
 > 
-> But countless secrets lie hidden in the [[stars]] high up above and the [[abyss]] deep down below.  
+> But countless secrets lie hidden in the [[stars]] high up above and the [[notes/reference/abyss|abyss]] deep down below.  
 > 
 > All of these things are awaiting discovery by mere mortals.
 

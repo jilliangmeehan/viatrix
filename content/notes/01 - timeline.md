@@ -24,8 +24,8 @@ much of the genshin timeline is still very speculative. we don't really know for
 - **? years later** [[the second who came]] appeared and waged war against [[notes/characters/the primordial one|the primordial one]], resulting in the destruction of the heavens and earth
 - fall of the [[notes/characters/seelies|seelies]]
 - fall of the [[notes/characters/three moon sisters|three moon sisters]]
-- [[enkanomiya]] fell into the ocean
-- **after the war** "whoever emerged victorious" took control of the heavens + "forbade knowledge" of history before the war — the people of [[enkanomiya]] believed [[notes/characters/the primordial one|the primordial one]] won, but apparently it's unknown
+- [[notes/places/enkanomiya|enkanomiya]] fell into the ocean
+- **after the war** "whoever emerged victorious" took control of the heavens + "forbade knowledge" of history before the war — the people of [[notes/places/enkanomiya|enkanomiya]] believed [[notes/characters/the primordial one|the primordial one]] won, but apparently it's unknown
 - supposedly [[rex lapis]] was alive + very young at this time
 
 > [!NOTE]

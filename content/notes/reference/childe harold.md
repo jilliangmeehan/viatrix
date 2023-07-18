@@ -19,7 +19,7 @@ tags:
 > 
 > And e'en for change of scene would seek the shades below.
 
-wanting to leave home so badly he'd seek out the abyss. maybe the abyss was calling to him his whole life.
+wanting to leave home so badly he'd seek out the [[notes/reference/abyss|abyss]]. maybe the abyss was calling to him his whole life.
 
 ---
 
@@ -42,7 +42,7 @@ wanting to leave home so badly he'd seek out the abyss. maybe the abyss was call
 > 
 > Whate'er this grief mote be, which he could not control.”
 
-foul legacy & the traces of the abyss lurking inside him.
+foul legacy & the traces of the [[notes/reference/abyss|abyss]] lurking inside him.
 
 ---
 
@@ -208,7 +208,7 @@ this dude is so sagittarius-coded. another major difference from our childe, lol
 > 
 > So that no wonder waits him;
 
-this stuck out to me — young ajax falling into the abyss, unaffected by time, aging not in days or months or years but in experience. he *did* pierce the depths of life, kind of literally.
+this stuck out to me — young ajax falling into the [[notes/reference/abyss|abyss]], unaffected by time, aging not in days or months or years but in experience. he *did* pierce the depths of life, kind of literally.
 
 ---
 
@@ -227,7 +227,7 @@ this stuck out to me — young ajax falling into the abyss, unaffected by ti
 > 
 > And life's enchanted cup but sparkles near the brim.
 
-this, again, feels reminiscent of childe's trip to the abyss & his foul legacy transformation.
+this, again, feels reminiscent of childe's trip to the [[notes/reference/abyss|abyss]] & his foul legacy transformation.
 
 immediately continuing from there, in **ix:**
 > His had been quaffed too quickly, and he found
