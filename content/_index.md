@@ -12,5 +12,5 @@ genshin impact lore is really cool & interesting to me — there are so many
 i've been making lots of haphazard notes and sending incomprehensible discord messages to my friends about it all for a long time. i wanted to start keeping better track of it all in a way that's both easy to edit & easy to share. 
 
 ## start here
-- [[content/notes/history/timeline|⏳ timeline]]
-- [[content/notes/items/artifacts/artifacts|🪶 artifacts]] 
+- [[notes/history/timeline|⏳ timeline]]
+- [[notes/items/artifacts/artifacts|🪶 artifacts]] 
