@@ -33,8 +33,8 @@ i would like this page to be a glance-able overview of everything, with subpages
 - **~6000 years ago**, teyvat was in a period known as [[notes/history/the old world|the old world]]. the [[notes/characters/the primordial one|primordial one]] arrived, defeated [[the seven sovereigns]], and created [[notes/places/realms|the human realm]].
 
 ## the new world
-- **400 years later:** [[the ark's opening]] 
-- **? years later:** [[the second throne of the heavens]] 
+- **400 years later:** [[notes/history/the ark's opening|the ark's opening]] 
+- **? years later:** [[notes/history/the second throne of the heavens|the second throne of the heavens]] 
 
 ## divine envoy era
 - **? years ago:** the [[divine envoy era]] began

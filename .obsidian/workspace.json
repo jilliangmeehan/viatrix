@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/history/timeline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/history/timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/history/timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/history/timeline.md"
               }
             }
           }
@@ -185,9 +185,10 @@
   },
   "active": "d7daf369fdcb85af",
   "lastOpenFiles": [
-    "content/notes/history/timeline.md",
-    "content/notes/characters/parsifal.md",
     "content/notes/history/the ark's opening.md",
+    "content/notes/history/timeline.md",
+    "content/_index.md",
+    "content/notes/characters/parsifal.md",
     "content/notes/history/the second throne of the heavens.md",
     "content/notes/history/divine envoy era.md",
     "content/notes/history/the old world.md",
@@ -204,7 +205,6 @@
     "content/notes/places/realms.md",
     "content/notes/items/artifacts/goblet of eonothem.md",
     "content/notes/places/enkanomiya.md",
-    "content/_index.md",
     "content/notes/reference/the morn a thousand roses brings.md",
     "static/fonts/iAWriterQuattroS-Regular.woff2",
     "static/fonts/iAWriterQuattroS-Italic.woff2",
