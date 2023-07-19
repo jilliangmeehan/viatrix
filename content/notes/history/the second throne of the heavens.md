@@ -6,7 +6,7 @@ tags:
 - history
 ---
 
-- **? years after [[notes/history/the ark's opening|the ark's opening]]**, [[the second who came]] appeared and waged war against [[notes/characters/the primordial one|the primordial one]], resulting in the destruction of the heavens and earth
+- **? years after [[notes/history/the ark|the ark's opening]]**, [[the second who came]] appeared and waged war against [[notes/characters/the primordial one|the primordial one]], resulting in the destruction of the heavens and earth
 - fall of the [[notes/characters/seelies|seelies]]
 - fall of the [[notes/characters/three moon sisters|three moon sisters]]
 - [[notes/places/enkanomiya|enkanomiya]] fell into the ocean
