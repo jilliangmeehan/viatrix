@@ -61,7 +61,7 @@ to be honest, the story of percival doesn’t seem to have a ton in common with 
 in most versions, percival’s mother hides him in the woods when he’s born because she doesn’t want him to become a knight like his father or something, but then 3 knights come across them and i guess he thinks they’re so cool he wants to be a knight too. he leaves, & his mother usually dies of grief. fun stuff!
 
 ### parzival
-in **parzival**, the story continues past his initial failure to ask the healing question & leads to him becoming the grail king. one interesting thing in this version is that the fisher king gets a name, anfortas, which is also the name of the leader of the [[schwanenritter]] (swan knights) in [[notes/reference/khaenriah|khaenri'ah]]. 
+in **parzival**, the story continues past his initial failure to ask the healing question & leads to him becoming the grail king. one interesting thing in this version is that the fisher king gets a name, anfortas, which is also the name of the leader of the [[schwanenritter]] (swan knights) in [[content/notes/places/khaenriah|khaenri'ah]]. 
 
 ### parsifal
 the opera version is called **parsifal**, “informed by one of the theories about the name percival, according to which it is of persian origin, meaning ‘pure (or poor) fool’”—whenever the word fool comes up i obviously think of the [[fatui]].
@@ -73,7 +73,7 @@ there is a LOT going on in this opera & it’s all really cool and definitely sh
 ## lohengrin
 good news, the parzival character also shows up in ANOTHER wagner [[opera]] called lohengrin, which is based on the story lohengrin, which is a sequel to parzival. isn’t this fun.
 
-lohengrin is the son of parzival, and he is “a grail knight sent in a boat pulled by swans to rescue a maiden who can never ask his identity”—this is basically just a variation of the classic knight of the swan story. in one of the original swan knight stories, the name of the swan knight is helias. ([[notes/sun|sun]] god!)
+lohengrin is the son of parzival, and he is “a grail knight sent in a boat pulled by swans to rescue a maiden who can never ask his identity”—this is basically just a variation of the classic knight of the swan story. in one of the original swan knight stories, the name of the swan knight is helias. ([[content/notes/reference/motifs/sun|sun]] god!)
 
 
 > [!NOTE]
@@ -105,7 +105,7 @@ i find it really interesting that [[notes/characters/playable/childe|childe]], p
 - the [[heart of depth]] artifact set, which tells parsifal's story, is in a dragonspine domain
 - eberhart led that fateful expedition to dragonspine
 - childe is shown in dragonspine in one of his character videos
-- [[durin]]'s corrupted heart being in dragonspine reminds me a lot of whatever is going on with childe re: foul legacy & the [[notes/reference/abyss|abyss]]
+- [[durin]]'s corrupted heart being in dragonspine reminds me a lot of whatever is going on with childe re: foul legacy & the [[content/notes/places/abyss|abyss]]
 - for some reason, the battle music in dragonspine is [all-conquering tide](https://open.spotify.com/track/5BVQORtwCg5PtOUG5GR9B5?si=be8e6c36e63145c2) — a song that’s pretty clearly associated with childe, was in the domain in his story quest, and is not even on the dragonspine album
 
 [^1]: via favonius lance description

@@ -7,7 +7,7 @@ tags:
 
 this set might be based on [herman](https://genshin-impact.fandom.com/wiki/Herman).
 
-## [[notes/artifacts/flower of life|adventurer's flower]]
+## [[content/notes/items/artifacts/flower of life|adventurer's flower]]
 *"A resilient flower that survived the harsh environment of [[an ancient city]]. It is now proudly worn like a medal."*
 > The ambitious adventurer came across this resilient flower in the depths of a gloomy ruin.  
 > 
@@ -17,7 +17,7 @@ this set might be based on [herman](https://genshin-impact.fandom.com/wiki/Herma
 
 this could be about any ancient civilization — and it doesn't really matter, because the adventurer has clearly traveled all over the place. but "harsh environment" does make me think of [[sal vindagnyr]].
 
-## [[notes/artifacts/plume of death|adventurer's tail feather]]
+## [[content/notes/items/artifacts/plume of death|adventurer's tail feather]]
 *"The feather of an exotic bird rarely seen on this continent."*
 > An adventurer once traveled through a forest in search of rare beasts never seen before.  
 > 
@@ -29,15 +29,15 @@ this could be about any ancient civilization — and it doesn't really matte
 
 (the feather looks like a peacock feather — what "continent" are they seen on?)
 
-## [[notes/artifacts/sands of eon|adventurer's pocket watch]]
-*"It's easy to lose track of time when you're adventuring where the [[notes/sun|sun]] doesn't shine, whether that's the depths of the [[notes/reference/abyss|abyss]] or the ruins of a lost city."*
+## [[content/notes/items/artifacts/sands of eon|adventurer's pocket watch]]
+*"It's easy to lose track of time when you're adventuring where the [[content/notes/reference/motifs/sun|sun]] doesn't shine, whether that's the depths of the [[content/notes/places/abyss|abyss]] or the ruins of a lost city."*
 > A pocket watch that once belonged to an adventurer. It was crafted by a master watchmaker with simplicity and practicality in mind, aligning with the philosophy of the [[Adventurers' Guild]].  
 > 
 > The adventurer spent most of his days in darkness. The rhythmic sound of its moving hands was the only proof he had of the passage of time. 
 > 
 > Long after he had grown accustomed to a normal life, having given up the adventurer lifestyle he once loved so dearly, this forgotten pocket watch still sat quietly in the cabinet, waiting for its next adventure.
 
-## [[notes/artifacts/goblet of eonothem|adventurer's golden goblet]]
+## [[content/notes/items/artifacts/goblet of eonothem|adventurer's golden goblet]]
 *"The spoils of one of an adventurer's many expeditions. Though a little damaged, it is still an excellent find."*
 > An old golden goblet that the adventurer used to drink water. It is said that he found it in an old ruin.  
 > 
@@ -47,13 +47,13 @@ this could be about any ancient civilization — and it doesn't really matte
 > 
 > This old golden goblet was traded in for new, shiny Mora.
 
-## [[notes/artifacts/circlet of logos|adventurer's bandana]]
+## [[content/notes/items/artifacts/circlet of logos|adventurer's bandana]]
 *"A cloth garment worn at the forehead. Though soaked in sweat and covered in dust, it still beams with an adventurer's pride."*
 > There is nothing special about this green bandana, save that the fabric is rather robust and highly absorbent.  
 > 
 > Just like the bandana, its wearer was an unexceptional, ordinary person.  
 > 
-> But countless secrets lie hidden in the [[stars]] high up above and the [[notes/reference/abyss|abyss]] deep down below.  
+> But countless secrets lie hidden in the [[stars]] high up above and the [[content/notes/places/abyss|abyss]] deep down below.  
 > 
 > All of these things are awaiting discovery by mere mortals.
 

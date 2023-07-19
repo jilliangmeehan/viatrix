@@ -8,48 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a79ca15b0fe0d0de",
+            "id": "7718dc240e92c066",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/characters/playable/childe.md",
+                "file": "content/notes/history/timeline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "pinned": true
             }
-          },
-          {
-            "id": "7718dc240e92c066",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/characters/parsifal.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1d92f1e28d63247",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/artifacts/goblet of eonothem.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "right": {
     "id": "bfb6f9916938360f",
@@ -131,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/characters/parsifal.md",
+                "file": "content/notes/history/timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/characters/parsifal.md",
+                "file": "content/notes/history/timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/characters/parsifal.md"
+                "file": "content/notes/history/timeline.md"
               }
             }
           }
@@ -198,20 +172,27 @@
   },
   "active": "7718dc240e92c066",
   "lastOpenFiles": [
-    "content/notes/reference/khaenriah.md",
-    "content/notes/reference/childe rowland.md",
-    "content/notes/reference/abyss.md",
     "content/notes/characters/parsifal.md",
+    "content/notes/history/timeline.md",
+    "content/notes/history/the ark's opening.md",
+    "content/notes/history/the second throne of the heavens.md",
+    "content/notes/history/divine envoy era.md",
+    "content/notes/history/the old world.md",
+    "content/notes/history",
+    "content/notes/reference/motifs",
+    "content/notes/items",
+    "content/notes/places/khaenriah.md",
+    "content/notes/reference/childe rowland.md",
+    "content/notes/places/abyss.md",
     "content/notes/reference/childe harold.md",
     "content/notes/characters/playable/childe.md",
-    "content/notes/artifacts/sets/berserker.md",
-    "content/notes/artifacts/sets/adventurer.md",
+    "content/notes/items/artifacts/sets/berserker.md",
+    "content/notes/items/artifacts/sets/adventurer.md",
     "content/notes/places/realms.md",
-    "content/notes/01 - timeline.md",
-    "content/notes/artifacts/goblet of eonothem.md",
+    "content/notes/items/artifacts/goblet of eonothem.md",
     "content/notes/places/enkanomiya.md",
     "content/_index.md",
-    "content/notes/the morn a thousand roses brings.md",
+    "content/notes/reference/the morn a thousand roses brings.md",
     "static/fonts/iAWriterQuattroS-Regular.woff2",
     "static/fonts/iAWriterQuattroS-Italic.woff2",
     "static/fonts/iAWriterQuattroS-BoldItalic.woff2",
@@ -219,9 +200,6 @@
     "static/fonts/SF-Compact-Rounded-Regular.woff2",
     "static/fonts/SF-Compact-Rounded-Bold.woff2",
     "static/fonts",
-    "assets/styles/fonts/iAWriterQuattroS-Regular.woff2",
-    "assets/styles/fonts/iAWriterQuattroS-Italic.woff2",
-    "assets/styles/fonts/iAWriterQuattroS-BoldItalic.woff2",
     "static/icon.png",
     "static/Item_Cecilia.png",
     "static/cecilia.svg",
@@ -230,18 +208,14 @@
     "cecilia.svg",
     "Item_Cecilia_edge.svg",
     "content/notes/images/cecilia.svg",
-    "content/notes/rose.md",
+    "content/notes/reference/motifs/rose.md",
     "content/templates/post.md",
-    "content/notes/sun.md",
-    "content/notes/moon.md",
+    "content/notes/reference/motifs/sun.md",
+    "content/notes/reference/motifs/moon.md",
     "content/notes/characters/three moon sisters.md",
     "content/notes/characters/the primordial one.md",
     "content/notes/characters/the four shades.md",
     "content/notes/characters/the black serpents.md",
-    "content/notes/characters/seelies.md",
-    "content/notes/artifacts/sands of eon.md",
-    "content/notes/artifacts/plume of death.md",
-    "content/notes/artifacts/flower of life.md",
     "content/notes/images/wiki_khayyam.png",
     "screenshot.png",
     "content/Untitled.canvas",

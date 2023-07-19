@@ -19,7 +19,7 @@ tags:
 > 
 > And e'en for change of scene would seek the shades below.
 
-wanting to leave home so badly he'd seek out the [[notes/reference/abyss|abyss]]. maybe the abyss was calling to him his whole life.
+wanting to leave home so badly he'd seek out the [[content/notes/places/abyss|abyss]]. maybe the abyss was calling to him his whole life.
 
 ---
 
@@ -42,7 +42,7 @@ wanting to leave home so badly he'd seek out the [[notes/reference/abyss|abyss]]
 > 
 > Whate'er this grief mote be, which he could not control.”
 
-foul legacy & the traces of the [[notes/reference/abyss|abyss]] lurking inside him.
+foul legacy & the traces of the [[content/notes/places/abyss|abyss]] lurking inside him.
 
 ---
 
@@ -208,7 +208,7 @@ this dude is so sagittarius-coded. another major difference from our childe, lol
 > 
 > So that no wonder waits him;
 
-this stuck out to me — young ajax falling into the [[notes/reference/abyss|abyss]], unaffected by time, aging not in days or months or years but in experience. he *did* pierce the depths of life, kind of literally.
+this stuck out to me — young ajax falling into the [[content/notes/places/abyss|abyss]], unaffected by time, aging not in days or months or years but in experience. he *did* pierce the depths of life, kind of literally.
 
 ---
 
@@ -227,7 +227,7 @@ this stuck out to me — young ajax falling into the [[notes/reference/abyss
 > 
 > And life's enchanted cup but sparkles near the brim.
 
-this, again, feels reminiscent of childe's trip to the [[notes/reference/abyss|abyss]] & his foul legacy transformation.
+this, again, feels reminiscent of childe's trip to the [[content/notes/places/abyss|abyss]] & his foul legacy transformation.
 
 immediately continuing from there, in **ix:**
 > His had been quaffed too quickly, and he found
@@ -248,12 +248,12 @@ immediately continuing from there, in **ix:**
 > 
 > Entering with every step he took through many a scene.
 
-this reminds me of the vessels of wine being refilled in [[notes/the morn a thousand roses brings|the morn a thousand roses brings]]. also thinking about the foul legacy transformation slowly eroding his body & soul every time he uses it — healing himself in vain.
+this reminds me of the vessels of wine being refilled in [[content/notes/reference/the morn a thousand roses brings|the morn a thousand roses brings]]. also thinking about the foul legacy transformation slowly eroding his body & soul every time he uses it — healing himself in vain.
 
 ---
 
 **canto the third, xi:**
-> But who can view the ripened [[notes/rose|rose]], nor seek
+> But who can view the ripened [[content/notes/reference/motifs/rose|rose]], nor seek
 > 
 > To wear it?
 

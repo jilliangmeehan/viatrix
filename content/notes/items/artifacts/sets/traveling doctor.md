@@ -5,7 +5,7 @@ tags:
 - artifacts
 ---
 
-## [[notes/artifacts/flower of life|traveling doctor's silver lotus]]
+## [[content/notes/items/artifacts/flower of life|traveling doctor's silver lotus]]
 *"A precious medicinal ingredient that has lost all medicinal value after years in storage."*
 > The doctor traveled across the land in search of rare herbs, with the zeal of an adventurer.  
 > 
@@ -13,7 +13,7 @@ tags:
 > 
 > The lotus was never made into medicine, but its scent gave her the strength to go on from that day forward.
 
-## [[notes/artifacts/plume of death|traveling doctor's owl feather]]
+## [[content/notes/items/artifacts/plume of death|traveling doctor's owl feather]]
 *"The durable feather of an [[owl]]. Emblematic of nocturnal supremacy, it gave some encouragement to the Traveling Doctor when venturing out to visit patients late at night."*
 > Even the pitch-black night could not stand between the traveling doctor and her patients.  
 > 
@@ -21,7 +21,7 @@ tags:
 > 
 > But unlike the owl, the endless nights without rest eventually took their toll on the traveling doctor, and she fell ill.
 
-## [[notes/artifacts/sands of eon|traveling doctor's pocket watch]]
+## [[content/notes/items/artifacts/sands of eon|traveling doctor's pocket watch]]
 *"A precise instrument used for keeping time. For a doctor, every second counts."*
 > When treating a dying patient, every second counts.  
 > 
@@ -31,7 +31,7 @@ tags:
 > 
 > What used to be a tool to save lives now sang a final elegy for its owner.
 
-## [[notes/artifacts/goblet of eonothem|traveling doctor's medicine pot]]
+## [[content/notes/items/artifacts/goblet of eonothem|traveling doctor's medicine pot]]
 *"This pot used to carry concentrated and extremely potent concoctions. It is now empty, but still gives off a strong smell of medicine."*
 > The medicine has long dried up, but its bitter smell still lingers in this pot.  
 > 
@@ -39,7 +39,7 @@ tags:
 > 
 > And when she fell seriously ill, no one was there for her except for the medicine pot on the furnace.
 
-## [[notes/artifacts/circlet of logos|traveling doctor's handkerchief]]
+## [[content/notes/items/artifacts/circlet of logos|traveling doctor's handkerchief]]
 *"Used to tie back the doctor's hair when treating patients. Can also be used as a sling for sprains and broken arms in emergencies."*
 > Back when the traveling doctor roamed from place to place, her days were busy and she hurried between appointments.  
 > 

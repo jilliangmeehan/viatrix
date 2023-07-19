@@ -11,7 +11,7 @@ what i find really interesting about this set is the multiple mentions of [[fate
 
 their uprising is often referred to as a failure, because it didn't have a happy or triumphant ending and it didn't, in the moment, achieve what they wanted it to achieve. but we know that the [[dawnlight swordswoman]] inspired [[ragnvindr]] to join the later rebellion, and [[kreuzlied]] went on to establish the [[underground organization]] that aided in that rebellion & is still operating today. and when you think about the ripple effect of all of that, it does seem a bit like fate.
 
-## [[notes/artifacts/flower of life|heart of comradeship]]
+## [[content/notes/items/artifacts/flower of life|heart of comradeship]]
 *"A small cerulean flower with somebody's ribbon pinned to the stem."*
 > The traveler from a distant land pinned this flower close to his chest.
 > 
@@ -32,7 +32,7 @@ the festival the woman mentions is the [[ludi harpastum]] festival, during a tim
 
 the "homeland" that the sojourner abandoned was [[fontaine]]. (i really hope fontaine gives us a better idea of what his life might have been like pre-[[wanderers’ troupe]] — why did he leave his life of "great privilege"? was it his choice?)
 
-## [[notes/artifacts/plume of death|feather of homecoming]]
+## [[content/notes/items/artifacts/plume of death|feather of homecoming]]
 *"A blue arrow fletching imbued with the sentiment of travelers that had once faded into the horizon."*
 > Hope was ripped to shreds by ruthless might, and promises of reunion disappeared like fleeting shadows. 
 > 
@@ -56,14 +56,14 @@ it's also unclear what the fate of the woman was — she could have been kil
 
 *also*: who was his "best friend"? what is the significance of his "final arrow"? lots that i'm still curious about.
 
-## [[notes/artifacts/sands of eon|sundial of the sojourner]]
-*"A sundial that has survived the ages, always silently recording the cycles of the [[notes/sun|sun]] and [[notes/moon|moon]] as they pass through the sky."*
+## [[content/notes/items/artifacts/sands of eon|sundial of the sojourner]]
+*"A sundial that has survived the ages, always silently recording the cycles of the [[content/notes/reference/motifs/sun|sun]] and [[content/notes/reference/motifs/moon|moon]] as they pass through the sky."*
 > The traveler pursued both [[fate]] and the inexorable passage of [[time]].  
 > 
 > The troupe that resisted the aristocracy — and their end — could be seen in the eternal flow of time.
 > 
 > In the course of a long journey, even the most well-made watch might cease to work.  
-> The only unfailing marker of time was the passage of the [[notes/sun|sun]] and [[notes/moon|moon]].  
+> The only unfailing marker of time was the passage of the [[content/notes/reference/motifs/sun|sun]] and [[content/notes/reference/motifs/moon|moon]].  
 > So to chase formless time, the traveler could only pursue [[light]] itself.
 > 
 > The great halls of the nobility, and the rebellious troupe with no room to lay their heads.  
@@ -79,7 +79,7 @@ again, i think the mention of "their end" here isn't necessarily referring to th
 
 this description is one of my favorites; it's so beautiful. *"So to chase formless time, the traveler could only pursue light itself"* is insane. & the part about the nobility and the troupe *both* "racing towards the same destruction" is so cool — maybe the uprising failed, but maybe it did all it was supposed to do. maybe it was destined to happen like this. 
 
-## [[notes/artifacts/goblet of eonothem|goblet of the sojourner]]
+## [[content/notes/items/artifacts/goblet of eonothem|goblet of the sojourner]]
 *"A plain porcelain goblet that was once brimming with joyous brews."*
 > A lyre has 4 strings.  
 > 
@@ -97,7 +97,7 @@ the [[wanderers’ troupe]] had four members, clearly represented by the four ly
 
 mentioning the strings of fate here is interesting to me — this is the second time fate is mentioned, the first being in the **sundial of the sojourner** description. if it *was* their fate for all four of them to meet and form the troupe, was the uprising also part of that fate? was the uprising *failing* also part of that fate? 
 
-## [[notes/artifacts/circlet of logos|crown of parting]]
+## [[content/notes/items/artifacts/circlet of logos|crown of parting]]
 *"A reed coronet that emanates the spring breeze."*
 > The departing traveler would take this crown of willow branches as a final memento.  
 > With it, he would remember his lover, now departed like a dandelion on the breeze.

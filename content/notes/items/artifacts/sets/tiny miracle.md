@@ -5,18 +5,18 @@ tags:
 - artifacts
 ---
 
-this set seems to be referencing the fall of the [[notes/characters/three moon sisters]], which overturned the [[notes/moon|moon]] chariot & "laid ruin to the halls of the stars."[^1]
+this set seems to be referencing the fall of the [[notes/characters/three moon sisters]], which overturned the [[content/notes/reference/motifs/moon|moon]] chariot & "laid ruin to the halls of the stars."[^1]
 
 i also really love the comment on the wiki page for this set that just says: 
 > "Is this artifact abt death or what lol"
 
-## [[notes/artifacts/flower of life|tiny miracle's flower]]
+## [[content/notes/items/artifacts/flower of life|tiny miracle's flower]]
 *"A flower that grew from a rock, breaking through the stone as it strove to reach the [[light]]."*
 > A little blue flower that sprouted between the cracks of an old tombstone.  
 > 
 > The carvings on the tombstone are a legacy of death, yet what sprouted from its cracks was the miracle of life.
 
-## [[notes/artifacts/plume of death|tiny miracle's feather]]
+## [[content/notes/items/artifacts/plume of death|tiny miracle's feather]]
 *"A feather from a [[bird]] of prey that flies almost too fast for the human eye to detect."*
 > Plucked from a [[falcon]] that was as fast as the wind. The mere existence of such a bird is a miracle.
 > 
@@ -24,7 +24,7 @@ i also really love the comment on the wiki page for this set that just says:
 > 
 > With its broad wings, its gliding speed was unparalleled.
 
-## [[notes/artifacts/sands of eon|tiny miracle's hourglass]]
+## [[content/notes/items/artifacts/sands of eon|tiny miracle's hourglass]]
 *"Just an ordinary everyday hourglass. Turn it upside down and sure enough, the dry sand starts trickling down like water."*
 > It is often said that one may achieve victory by striving, but receive a miracle only by waiting.  
 > 
@@ -32,7 +32,7 @@ i also really love the comment on the wiki page for this set that just says:
 > 
 > Is it not too a miracle that we met each other?
 
-## [[notes/artifacts/goblet of eonothem|tiny miracle's goblet]]
+## [[content/notes/items/artifacts/goblet of eonothem|tiny miracle's goblet]]
 *"A cup commonly used for fortunetelling. It can also hold water, of course."*
 > A clear goblet glittering with starlight.  
 > 
@@ -42,7 +42,7 @@ i also really love the comment on the wiki page for this set that just says:
 
 🤨 the "[[starry sea]]," huh?
 
-## [[notes/artifacts/circlet of logos|tiny miracle's earrings]]
+## [[content/notes/items/artifacts/circlet of logos|tiny miracle's earrings]]
 *"A cheap accessory that is actually made from ancient meteoric ore."*
 > An inexpensive pair of earrings made from metal that shines like the stars.  
 > 

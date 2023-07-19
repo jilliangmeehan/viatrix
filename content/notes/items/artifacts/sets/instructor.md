@@ -10,7 +10,7 @@ i haven't looked into this set very much, so i have no theories about it yet. bu
 
 so i'm interested in checking that out at some point. the style of the cap in particular doesn't really scream millelith to me, but it also doesn't really scream mondstadt, so who knows.
 
-## [[notes/artifacts/flower of life|instructor's brooch]]
+## [[content/notes/items/artifacts/flower of life|instructor's brooch]]
 *"Whenever the instructor wore this brooch, it meant there would be no training sessions that day."*
 > Every student in the school knew that the strict instructor was a serious soldier.  
 > 
@@ -24,7 +24,7 @@ so i'm interested in checking that out at some point. the style of the cap in pa
 > 
 > There, after a moment of silence, he would pay his respects to the familiar names carved on the tombstones.
 
-## [[notes/artifacts/plume of death|instructor's feather accessory]]
+## [[content/notes/items/artifacts/plume of death|instructor's feather accessory]]
 *"Any instructor who has mastered the art of de-escalation knows to keep this accessory firmly in their grasp at all times."*
 > The strict instructor once sharpened his own combat skills on the merciless battlefield.  
 > 
@@ -36,7 +36,7 @@ so i'm interested in checking that out at some point. the style of the cap in pa
 > 
 > For it was their sacrifices that helped him become who he is today.
 
-## [[notes/artifacts/sands of eon|instructor's pocket watch]]
+## [[content/notes/items/artifacts/sands of eon|instructor's pocket watch]]
 *"A stopwatch used not for general timekeeping but to measure the duration of a training session."*
 > A pocket watch treasured by the instructor. It is not, however, military-issue gear from the instructor's school.  
 > 
@@ -48,7 +48,7 @@ so i'm interested in checking that out at some point. the style of the cap in pa
 
 this is one of the rare instances, i think, of a timepiece that counts *up* rather than *down.* and it has an almost positive connotation, compared to the hourglasses and watches representing people running out of time.
 
-## [[notes/artifacts/goblet of eonothem|instructor's tea cup]]
+## [[content/notes/items/artifacts/goblet of eonothem|instructor's tea cup]]
 *"It may seem like an ordinary tea cup to most. But to students, it is the symbol of the instructor's authority."*
 > Every military school student knows that the so-called "free training time" could not have anything less to do with freedom.  
 > 
@@ -58,7 +58,7 @@ this is one of the rare instances, i think, of a timepiece that counts *up* rath
 > 
 > This peaceful time is a privilege of the instructor, and the embodiment of his authority.
 
-## [[notes/artifacts/circlet of logos|instructor's cap]]
+## [[content/notes/items/artifacts/circlet of logos|instructor's cap]]
 *"A standard-issue honorary instructor's cap, only granted to those who turn down a promotion."*
 > "I don't have the talent to command an army as its general,  
 > Nor am I qualified for anything beyond being a soldier.  
