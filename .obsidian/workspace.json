@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/reference/motifs/memory.md",
+                "file": "content/notes/reference/nero.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/reference/motifs/memory.md",
+                "file": "content/notes/reference/nero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/reference/motifs/memory.md",
+                "file": "content/notes/reference/nero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/reference/motifs/memory.md"
+                "file": "content/notes/reference/nero.md"
               }
             }
           }
@@ -185,8 +185,10 @@
   },
   "active": "d7daf369fdcb85af",
   "lastOpenFiles": [
-    "content/notes/reference/motifs/moon.md",
     "content/notes/reference/motifs/memory.md",
+    "content/notes/reference/nero.md",
+    "content/notes/reference/childe rowland.md",
+    "content/notes/reference/motifs/moon.md",
     "content/notes/history/timeline.md",
     "content/notes/history/the ark.md",
     "content/notes/history/the second throne of the heavens.md",
@@ -198,7 +200,6 @@
     "content/notes/reference/motifs",
     "content/notes/items",
     "content/notes/places/khaenriah.md",
-    "content/notes/reference/childe rowland.md",
     "content/notes/places/abyss.md",
     "content/notes/reference/childe harold.md",
     "content/notes/characters/playable/childe.md",
@@ -228,7 +229,6 @@
     "content/notes/reference/motifs/sun.md",
     "content/notes/characters/three moon sisters.md",
     "content/notes/characters/the primordial one.md",
-    "content/notes/characters/the four shades.md",
     "content/notes/images/wiki_khayyam.png",
     "screenshot.png",
     "content/Untitled.canvas",
