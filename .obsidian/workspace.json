@@ -102,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 299.5
   },
   "right": {
     "id": "bfb6f9916938360f",
@@ -185,11 +185,11 @@
   },
   "active": "d7daf369fdcb85af",
   "lastOpenFiles": [
-    "content/notes/reference/motifs/memory.md",
+    "content/notes/history/timeline.md",
     "content/notes/reference/nero.md",
+    "content/notes/reference/motifs/memory.md",
     "content/notes/reference/childe rowland.md",
     "content/notes/reference/motifs/moon.md",
-    "content/notes/history/timeline.md",
     "content/notes/history/the ark.md",
     "content/notes/history/the second throne of the heavens.md",
     "content/_index.md",
