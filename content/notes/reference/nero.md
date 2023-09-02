@@ -13,6 +13,8 @@ i've been learning a bit about [nero](https://en.wikipedia.org/wiki/Nero?useskin
 - his love for architecture & the arts
 - the once-held [belief](https://en.wikipedia.org/wiki/Nero_Redivivus_legend?useskin=vector) that he would return (possibly as the antichrist?) after his death, or that he was actually still alive
 
+---
+
 > ...See that? That's the conclusion the world-formula arrived at after countless calculations. The scene we foresaw, the destruction after the cataclysm, and this world where not even a Sweet Flower or a Mint can grow... That is the end of all things... 
 > 
 > ...Do you believe it at last? Whether you have arrived at this place via the Book of Revealing or the Looking Glass, lend me your strength, that we may avoid this future... 
