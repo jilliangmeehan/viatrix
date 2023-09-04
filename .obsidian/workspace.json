@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/books/vera's melancholy.md",
+                "file": "content/notes/places/abyss.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/books/vera's melancholy.md",
+                "file": "content/notes/places/abyss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/books/vera's melancholy.md",
+                "file": "content/notes/places/abyss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/books/vera's melancholy.md"
+                "file": "content/notes/places/abyss.md"
               }
             }
           }
@@ -185,12 +185,22 @@
   },
   "active": "f8c281156ad8039a",
   "lastOpenFiles": [
+    "content/notes/reference/motifs/sun.md",
+    "content/notes/reference/motifs/rose.md",
+    "content/notes/reference/motifs/moon.md",
+    "content/notes/reference/motifs/memory.md",
+    "content/notes/characters/three moon sisters.md",
+    "content/notes/characters/the primordial one.md",
+    "content/notes/characters/the four shades.md",
+    "content/notes/characters/the black serpents.md",
+    "content/notes/characters/seelies.md",
+    "content/notes/characters/parsifal.md",
     "content/notes/books/the pale princess and the six pygmies.md",
+    "content/notes/books/vera's melancholy.md",
     "content/notes/books/the mondstadt tower.md",
     "content/notes/books/the fox in the dandelion sea.md",
     "content/notes/books/the boar princess.md",
     "content/notes/books/hilichurl ballad selection.md",
-    "content/notes/books/vera's melancholy.md",
     "Pasted image 20230904155427.png",
     "content/notes/characters/playable/albedo.md",
     "content/notes/books",
@@ -200,22 +210,12 @@
     "content/templates/post.md",
     "content/notes/characters/playable/childe.md",
     "content/notes/reference/nero.md",
-    "content/notes/reference/motifs/memory.md",
     "content/notes/reference/childe rowland.md",
-    "content/notes/reference/motifs/moon.md",
     "content/notes/history/the ark.md",
     "content/notes/history/the second throne of the heavens.md",
-    "content/_index.md",
-    "content/notes/characters/parsifal.md",
-    "content/notes/history/divine envoy era.md",
-    "content/notes/history/the old world.md",
     "content/notes/history",
     "content/notes/reference/motifs",
     "content/notes/items",
-    "content/notes/places/khaenriah.md",
-    "content/notes/places/abyss.md",
-    "content/notes/reference/childe harold.md",
-    "content/notes/items/artifacts/sets/berserker.md",
     "static/fonts/iAWriterQuattroS-Regular.woff2",
     "static/fonts/iAWriterQuattroS-Italic.woff2",
     "static/fonts/iAWriterQuattroS-BoldItalic.woff2",

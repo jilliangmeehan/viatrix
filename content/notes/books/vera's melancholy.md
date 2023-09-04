@@ -83,7 +83,7 @@ From the Orion Arm to the Eternal Jahanam, from the Torrents of Time to the dept
 ## volume iii
 > The Andromeda Empire stretches across half the galaxy group. Every planet within the Empire has its own demons and deities, dragons and monsters. 
 > 
-> "I've come up with a story for every star from your home." "That's not possible. Looking from here, the Andromeda Galaxy is only one fifth the size of your moon." 
+> "I've come up with a story for every star from your home." "That's not possible. Looking from here, the Andromeda Galaxy is only one fifth the size of your [[content/notes/reference/motifs/moon|moon]]." 
 > 
 > So continues Vera's adventure.
 
@@ -225,7 +225,7 @@ After all, those things they had encountered in their galactic escapades had to 
 > Lose yourself, and especially your sense of direction, in this next chapter of Vera's starbound voyage!
 
 ### Galaxy Wars
-"Re-igniting a sun is not difficult, but I don't think the Andromeda Empire would like to see that happen," Ike said to the panicked Vera.  
+"Re-igniting a [[content/notes/reference/motifs/sun|sun]] is not difficult, but I don't think the Andromeda Empire would like to see that happen," Ike said to the panicked Vera.  
 
 "Do you mean that the Princess has kidnapped Sachi?" Vera said with some shock in her voice after giving the matter some thought.  
 

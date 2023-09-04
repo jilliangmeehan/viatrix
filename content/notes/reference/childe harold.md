@@ -28,7 +28,7 @@ wanting to leave home so badly he'd seek out the [[content/notes/places/abyss|ab
 > 
 > Strange pangs would flash along Childe Harold's brow,
 > 
-> As if the memory of some deadly feud
+> As if the [[content/notes/reference/motifs/memory|memory]] of some deadly feud
 > 
 > Or disappointed passion lurked below:
 > 
@@ -299,7 +299,7 @@ this + the passage preceding it are about finding contentment and companionship 
 > 
 > The bars survive the captive they enthral;
 > 
-> The day drags through though storms keep out the sun;
+> The day drags through though storms keep out the [[content/notes/reference/motifs/sun|sun]];
 > 
 > And thus the heart will break, yet brokenly live on:
 

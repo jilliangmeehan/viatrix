@@ -25,7 +25,7 @@ Some time ago, behind the village, there grew a forest of countless lush trees. 
 
 The lake was like the stained glass windows of Mondstadt Cathedral: crystal clear and shimmering in the sunlight.  
 
-The sun shone through the treetops and glistened on the water's surface like fragments of gemstone. It was really something.  
+The [[content/notes/reference/motifs/sun|sun]] shone through the treetops and glistened on the water's surface like fragments of gemstone. It was really something.  
 
 The weather was cool that day. I was hunting in the forest when I arrived at the lake's edge. The shimmering water somehow reminded me of a girl I loved a long time ago.  
 
@@ -225,7 +225,7 @@ Without answering, she took my hand and led me into the depths of the sea of dan
 
 The night breezes from both north and south carried the bitter fragrance of dandelion flowers and faded memories...  
 
-In those fields of velvet white, she showed me how foxes play gently together in their own fashion, until the moon rose high into the starry sky.
+In those fields of velvet white, she showed me how foxes play gently together in their own fashion, until the [[content/notes/reference/motifs/moon|moon]] rose high into the starry sky.
 ## volume v
 > Upon accepting the Fox's conditions, he came to the place where all the prey who disappeared had eventually gone to — an endless field of dandelions. The story of the Hunter and the Fox in the sea of dandelions. 
 
@@ -440,9 +440,9 @@ When that time came, would I still be able to behold those beautiful eyes under 
 
 Would she still lead me into the depths of the dandelion sea, smiling slyly as we frolicked and breathed in the bitter fragrance that came from both the north and south winds?  
 
-As I thought about such things, I became lost in sullen memory.  
+As I thought about such things, I became lost in sullen [[content/notes/reference/motifs/memory|memory]].  
 
-Yes, that's right. On that night that I could no longer remember clearly, when I was about to part with the girl I loved, this same moon had hung in the sky as well.  
+Yes, that's right. On that night that I could no longer remember clearly, when I was about to part with the girl I loved, this same [[content/notes/reference/motifs/moon|moon]] had hung in the sky as well.  
 "Thank you for everything up till now."  
 
 Before I knew it, the fox had walked in front of me. She bowed, and her hair spilled over her shoulders, flowing like water in the glimmering moonlight.  
@@ -461,7 +461,7 @@ Was this fox magic, too?
 
 Seeing my wooden expression, the fox laughed and sighed.  
 
-Then, she turned and began walking in the direction of the moon, leading me further into the center of the moonlit dandelion sea.  
+Then, she turned and began walking in the direction of the [[content/notes/reference/motifs/moon|moon]], leading me further into the center of the moonlit dandelion sea.  
 
 Seeing this, the little fox swished its tail from side to side, and burrowed into the dandelion fields.
 ## volume x

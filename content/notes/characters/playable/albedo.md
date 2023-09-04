@@ -76,7 +76,7 @@ Yes, "that" Klee.
 From that day forth, remedying Klee's disasters would come to take up most of Albedo's remaining energy...
 
 #### character story 3
-Albedo has no memory of any blood relations. From birth, he was already adventuring deep within domains with his master.
+Albedo has no [[content/notes/reference/motifs/memory|memory]] of any blood relations. From birth, he was already adventuring deep within domains with his master.
 
 Of course, Miss Alice, the Knights of Favonius, and that traveler who had a sense of the stellar depths about them... They are all important. And yet his master is unquestionably the most special to him.
 
