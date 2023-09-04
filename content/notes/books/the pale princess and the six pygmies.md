@@ -16,11 +16,11 @@ The Moonlight Forest was the only place free from the rule of the Night Mother. 
 ## volume ii
 > A fairytale story that has been told throughout Teyvat for ages. This installment tells of the meeting of the Pale Princess and the Light Prince.
 
-The monarch of this kingdom was a beautiful princess with skin as white as snow. Just like the [[content/notes/reference/motifs/moon|moon]], she had the brightest skin, the purest eyes, and the kindest soul. People of the kingdom all vowed their loyalty to her and referred to her as The Pale Princess. 
+The monarch of this kingdom was a beautiful princess with skin as white as snow. Just like the [[notes/reference/motifs/moon|moon]], she had the brightest skin, the purest eyes, and the kindest soul. People of the kingdom all vowed their loyalty to her and referred to her as The Pale Princess. 
 
 The Pale Princess ruled her kingdom with kindness and gentleness. She always knew what was best for her people. Under her rule, the people of the Moonlight Forest never knew the threat of the Night Mother's wrath, and the creatures lurking in the dark never dared to set foot in the forest. 
 
-However, the Princess had her own troubles. To her, the silvery [[content/notes/reference/motifs/moon|moon]] hanging in the night sky seemed like a tiny hole through which the light could pass, and she felt that by following the light back to its source one could almost see the world on the other side. Just like all other people, the Pale Princess would often sit on the stone plate in front of the palace, imagining a world beyond the moonlight.  
+However, the Princess had her own troubles. To her, the silvery [[notes/reference/motifs/moon|moon]] hanging in the night sky seemed like a tiny hole through which the light could pass, and she felt that by following the light back to its source one could almost see the world on the other side. Just like all other people, the Pale Princess would often sit on the stone plate in front of the palace, imagining a world beyond the moonlight.  
 "Will I be able to bring my people there one day?" The Princess thought to herself. 
 
 "You will."  
@@ -40,7 +40,7 @@ He had come to save them. He would eventually save her from the darkness and tak
 
 So, she asked.  
 
-"What's the world like on the other side of the [[content/notes/reference/motifs/moon|moon]]?"  
+"What's the world like on the other side of the [[notes/reference/motifs/moon|moon]]?"  
 
 The Prince had already told her about the Kingdom of Light hundreds of times before, but at that moment, the Prince realized that she was determined to find out for herself.  
 
@@ -114,7 +114,7 @@ At that moment, the Pale Princess was in a deep slumber and had not an inkling o
 
 The poison had sent the Prince into a coma as the Pale Princess slept. The six pygmies' scheme started to unfold.  
 
-In her sleep, the Princess had no idea how the Prince was being tortured. In her dream, her lover's body glowed with luminous colors and light scattered gently like satin. The sweet sunlight finally broke through the dark clouds and sprinkled on the living. The orange glow of the setting [[content/notes/reference/motifs/sun|sun]] painted a layer of caramel on the blue lake, making the water as sweet as nectar. New colors were painted on the black hills and the ruined city was turned into a candy castle. However, when the Princess called the Prince by name, all she heard in reply were indistinguishable words.  
+In her sleep, the Princess had no idea how the Prince was being tortured. In her dream, her lover's body glowed with luminous colors and light scattered gently like satin. The sweet sunlight finally broke through the dark clouds and sprinkled on the living. The orange glow of the setting [[notes/reference/motifs/sun|sun]] painted a layer of caramel on the blue lake, making the water as sweet as nectar. New colors were painted on the black hills and the ruined city was turned into a candy castle. However, when the Princess called the Prince by name, all she heard in reply were indistinguishable words.  
 
 The poor Princess had no idea that the Prince could no longer respond to her calling.  
 Lightning flashed and thunder echoed in the silent night sky. The six pygmies carried out their scheme successfully. To celebrate, they set up a huge pot and cooked a pot of thick soup with moss and poisonous mushrooms. But just as the culprits were enjoying their feast, the Prince's broken soul used up all its remaining power to curse the pygmies. For the rest of their lives, they were tormented by a curse that made them feel as if they were being cooked in a huge cooking pot, unable to ever see the light of day again.  
@@ -129,7 +129,7 @@ This pygmy spirited the Prince's body away from his wicked brethren, plunging in
 What the pygmy didn't know is that the vicious Night Mother had already found the Princess. She followed the pygmy stealthily, like a wild cat stalking its prey, her shadowy figure blotting out the moonlight and starlight.  
 
 When the pygmy arrived, the Princess was already gone. The sorrowful howl of a night owl was heard as the Night Mother arose from the now-corrupt fountain.  
-"Pitiful creature, are you here to see your master?" The vile smirk of the Night Mother exuded the breath of the [[content/notes/places/abyss|abyss]].  
+"Pitiful creature, are you here to see your master?" The vile smirk of the Night Mother exuded the breath of the [[notes/places/abyss|abyss]].  
 
 "If so, I'm afraid all you will find here is despair, you sad little thing."  
 
