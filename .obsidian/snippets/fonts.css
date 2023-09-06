@@ -1,0 +1,37 @@
+:root {
+    @font-face {
+        font-family: 'iA Writer Quattro';
+        src:  url('/fonts/iAWriterQuattroS-Regular') format('woff2');
+    }
+
+    @font-face {
+        font-family: 'iA Writer Quattro';
+        src:  url('/fonts/iAWriterQuattroS-Italic') format('woff2');
+        font-style: italic;
+    }
+
+    @font-face {
+        font-family: 'iA Writer Quattro';
+        src:  url('/fonts/iAWriterQuattroS-Bold') format('woff2');
+        font-weight: bold;
+    }
+
+    @font-face {
+        font-family: 'iA Writer Quattro';
+        src:  url('/fonts/iAWriterQuattroS-BoldItalic') format('woff2');
+        font-weight: bold;
+        font-style: italic;
+    }
+
+    @font-face {
+        font-family: 'SF Compact Rounded';
+        src:  url('/fonts/SF-Compact-Rounded-Regular') format('woff2');
+    }
+
+    @font-face {
+        font-family: 'SF Compact Rounded';
+        src:  url('/fonts/SF-Compact-Rounded-Bold') format('woff2');
+        font-weight: bold;
+    }
+}
+}
