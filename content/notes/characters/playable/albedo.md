@@ -21,6 +21,11 @@ At least until the day Albedo suddenly appeared and decided to stay in Mondstadt
 
 This young man displayed the true prowess of alchemy to all, bringing with him a massive corpus of wisdom that even the [Sumeru Akademiya](https://genshin-impact.fandom.com/wiki/Sumeru_Akademiya "Sumeru Akademiya") did not possess. "The universe is heaven reversed, and the earth is a dream lost to time. This is dust, the most basic form of complex life."
 
+
+> [!NOTE] Title
+> insane thing to say. reminds me of [[notes/books/the pale princess and the six pygmies|the pale princess and the six pygmies]] a bit. 
+
+
 As if to provide evidence for this claim, Albedo lifted the burnt ash of the flower that once grew atop a Dendro Slime's head.
 
 Seconds later, a [Cecilia](https://genshin-impact.fandom.com/wiki/Cecilia "Cecilia") sprouted forth from the ash in his hand.

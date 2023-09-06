@@ -10,6 +10,7 @@ tags:
 > A story about friendship, love, and death.
 
 In the myths of ages past, every living being in this world had its own kingdom.  
+
 Mondstadt was a forest in that age, a playground of the boars.  
 
 In the forest was the Boar Kingdom, where everybody lived happily under the reign of the Boar King.  
@@ -26,6 +27,11 @@ Every boar in the kingdom adored their King and Princess, and every day they pra
 
 "Oink, oink! Bless the gentle Anemo Archon for giving our King such a kind and polite Princess!"  
 
+
+> [!NOTE] 🔖
+> is this implying there was an anemo archon at this time? or is it just the author relating to modern readers?
+
+
 ---
   
 (There are some words in the margin written in tiny handwriting: "dada, if I dont eat candy efery night, and i pray eferyday, will i turn into a wild piggy? i want to be a wild piggy because they are so tasty")
@@ -35,6 +41,10 @@ Every boar in the kingdom adored their King and Princess, and every day they pra
 North of the boar forest was a frozen tundra.  
 
 The playful Barbatos had not reached those lands, so they remained covered by ice and snow.  
+
+
+> [!NOTE] 🔖
+> ok seems like barbatos was supposedly around. i wonder if he still has not visited there, and why?
 
 Every creature who ventured there risked freezing their paws and hooves off.  
 
@@ -107,6 +117,7 @@ One day, the Boar Princess heard about the pup and was deeply saddened by his st
 So she asked her people for advice on how to defrost his heart and turn him back to his former sweet self.  
 
 She asked and asked, but only the wise fox and the elderly turtle knew the answer:  
+
 "Ack-ack-ack! Only sincerity and fire could melt such evil ice. Ack-ack-ack!" The fox replied.  
 
 "Friendship demands sacrifice. No friendships come without sacrifices. I apologize for not knowing how to make funny sounds," the trustworthy Grandpa Turtle said. 
@@ -141,7 +152,7 @@ The wise fox and the trustworthy turtle could not bear the piercing wind and the
 
 It was to no avail. The persevering Princess did not heed the advice of her wise companions, but insisted that they continue to press on into the bitter cold of the far north.  
 
-For what nobler cause could one pursue in this world than rescuing lost kin and rekindling lost friendships?  
+**For what nobler cause could one pursue in this world than rescuing lost kin and rekindling lost friendships?**  
 
 Onwards they continued through the ice and snow, until their paws and hooves were purple from the cold, until each breath they exhaled turned into ice which became one with the swirling blizzard around them.  
 
@@ -161,7 +172,11 @@ The spirit of the snowstorm spoke softly.
 
 "Of course, but... whoosh, whoosh..."  
 
-"In return, I will sap your energy. The further forward you go in the storm, the more tired and hungry you will become — though I assure you, it will not be life threatening... I hope... Whoosh, whoosh..."  
+"In return, I will sap your energy. The further forward you go in the storm, the more tired and hungry you will become — though I assure you, it will not be life threatening... I hope... Whoosh, whoosh..."
+
+
+> [!NOTE] 🔖
+> what if this is the price of looking for our twin? 
 
 "Oink oink! This is, after all, the spirit of the snowstorm," pondered the Princess. 
 

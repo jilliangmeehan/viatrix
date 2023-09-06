@@ -4,6 +4,14 @@ draft: false
 tags:
   - book
 ---
+
+> [!NOTE] 🔖
+> i think the name “vera” probably comes from words for “truth” and “being” / “to be.” in this story, i wonder if vera represents the “truth of this world”—or even more literally, the world itself. maybe she even represents the irminsul tree. 
+> 
+> since she’s from delphi, this meaning of “truth” might also be connected with her being an oracle. 
+
+
+
 ## volume i
 > I don't ever think the world is monotonous. It's just that interesting things happen in far away galaxies. 
 > 
@@ -14,11 +22,24 @@ tags:
 
 This wasn't the first time that Vera had complained about her hometown, the small country village of Delphi. Her frown eased slightly as she lay on the hillside near the village, eyes closed, feeling the breeze of the early summer.  
 
+
+> [!NOTE] 🔖
+> delphi was once considered the center of the world to the greeks, and had a big chunk of marble marking it as such. also was the site of the oracle pythia. 
+
 "Then where in this world would you not consider dull?" Her buddy Sachi asked curiously.  
+
+
+> [!NOTE] 🔖
+> sachi’s name could come from the japanese word for good luck
 
 Vera sat up and leaned forward.  
 
 "I believe on the other side of the Starry Sea is a planet inhabited by gods who can answer all prayers and wishes, and everyone bearing a wish is on a journey to get there. I believe, in our universe, there is a world currently in a war against doomsday, where the noble and elegant souls of fourteen Valkyries burn bright, if only for a brief but magnificent moment..."  
+
+
+> [!NOTE] 🔖
+> my hi:3 knowledge is limited, but i assume the world with fourteen valkyries refers to that story. could the planet inhabited by gods who can answer “wishes” be teyvat? (putting aside the fact that teyvat is not the name of the planet, i guess.)
+
 
 "You've been reading too many of those weird fantasy novels."  
 
@@ -58,7 +79,12 @@ He walked back to the cupboard and began slashing at the tentacles frantically.
 
 "Come and help me close this door! If a tentacle starts attacking you, use this kitchen knife to defend yourself!" Ike's glasses were now covered in blue slime. "Hurry! We can't let this evil demon cross into Delphi."  
 
-Upon hearing his words, Vera helped Ike close the door. While they were pushing back the tentacles, Vera accidentally stabbed Ike twice in the back. Thankfully, Ike's healing spells were quite potent.  
+Upon hearing his words, Vera helped Ike close the door. **While they were pushing back the tentacles, Vera accidentally stabbed Ike twice in the back.** Thankfully, Ike's healing spells were quite potent.
+
+
+> [!NOTE] 🤔
+> this feels significant lol
+
 
 "I shall explain everything to you. I am in fact over a thousand years old, and this door is a gateway to anywhere in the universe. That tentacled monster is an old one from the Large Magellanic Cloud — I went there to get something." Ike was covered in slime from head to foot by this point. He wiped his glasses with Vera's dress as he spoke. "Erm... is there anything else that you'd like to know?"  
 
@@ -75,6 +101,11 @@ Vera's parents always reminded her that people are destined to build families, a
 "The human spirit is still too immature. I need to guide you both through the wonders of your childhood." Ike extended his inviting arms to Vera. "You will sing every step of the way on your long journey to youth."  
 
 From the Orion Arm to the Eternal Jahanam, from the Torrents of Time to the depths of the Starry Sea...  
+
+
+> [!NOTE] 🔖
+> jahannam is the islamic version of hell, and the orion arm is part of the milky way. 
+
 
 "How far is 'beyond'? Any place in this universe is just as boring as my backyard," he said.  
 
@@ -132,6 +163,11 @@ Ike had no intention of evading. After all, he was a galactic sage who was over 
 
 "Having seen the starry host, I thus make star-shaped jewels to remember them by," he continued to explain. "But those stars that shine across the universe do not belong to anyone. So it is also impossible to steal them."  
 
+
+> [!NOTE] 🔖
+> what the fuck lol
+
+
 Vera did not understand. "What are you saying?"  
 
 "I'm saying this for the sake of a foolish fellow who isn't present right now. Pay it no mind, humans are just far too young."  
@@ -146,6 +182,10 @@ Vera did not understand. "What are you saying?"
 
 "Disgusting. Boring. Be silent, worm. You are an offense to my ears. I've already acknowledged Vera as my friend. I will not hand her over to a cowardly person like you..."  
 
+
+> [!NOTE] 🔖
+> is this the true reason vera died? because the princess couldn’t “hand her over” to sachi until he had proven himself?
+
 "Wh—What..."
 ## volume v
 > You can't have picnics on the sides of a galactic highway! Even the deities will be held fully responsible for road accidents that might occur! 
@@ -153,12 +193,22 @@ Vera did not understand. "What are you saying?"
 > The doorway to a study in a simple village connects to anywhere in space and time! Having tea with the deities, playing hide-and-seek across time... Vera's great adventure continues!
 
 ### Roadside Picnic
-When Ike was taking a nap, his servants waged a terrible war against each other.  
+When Ike was taking a nap, his servants waged a terrible war against each other.
+
+
+> [!NOTE] 🔖
+> i’ve always wondered if this is referring to the archon war, or maybe the calamity
+
 The great wizard had subdued many gods and demons to serve under him. As the most formidable wizard of his day, Ike was in command of gods and demons more numerous than the entries in a dictionary. But who was the strongest of those under his rule? The gods and demons decided to find out for themselves through battle.  
 
 Unfortunately, they seemed to have erroneously regarded as their own three who were neither gods nor demons: the Princess, Sachi, and Vera.  
 
 Ike only slept for two hours, but in that time three stars had already been destroyed!  
+
+
+> [!NOTE] 🔖
+> this always makes me think of the fall of the moon sisters, but that doesn’t seem quite right here
+
 
 ---
   
@@ -180,7 +230,12 @@ The dominant race of the Andromeda Empire may look lovely and sweet, but on thei
 
 "No! This has nothing to do with me!" Sachi yelled as the dragon cast him into the sky.  
 
-And just like that, the battle between the dominant species of Andromeda and the ancient giant dragon was over.  
+And just like that, the battle between the dominant species of Andromeda and the ancient giant dragon was over.
+
+
+> [!NOTE] 🔖
+> the war with the second who came and the vishaps?
+
 
 ---
   
@@ -210,6 +265,10 @@ After all, those things they had encountered in their galactic escapades had to 
 
 "So that can only mean that this place is on the polar opposite side of this world from the great king's capital, right?" Ike said, commenting on a seemingly unimportant aspect of the tale.  
 
+
+> [!NOTE] 🔖
+> interesting wording
+
 "Ahahaha, that's true if you think about it." Vera rubbed the back of her head with a crooked smile. 
 
 ---
@@ -225,13 +284,21 @@ After all, those things they had encountered in their galactic escapades had to 
 > Lose yourself, and especially your sense of direction, in this next chapter of Vera's starbound voyage!
 
 ### Galaxy Wars
-"Re-igniting a [[notes/reference/motifs/sun|sun]] is not difficult, but I don't think the Andromeda Empire would like to see that happen," Ike said to the panicked Vera.  
+"Re-igniting a [[notes/reference/motifs/sun|sun]] is not difficult, but I don't think the Andromeda Empire would like to see that happen," Ike said to the panicked Vera.
+
+
+> [!NOTE] 🔖
+> INTERESTING
 
 "Do you mean that the Princess has kidnapped Sachi?" Vera said with some shock in her voice after giving the matter some thought.  
 
 "How did you come to that conclusion? I'm saying that only the Andromeda Empire would be capable of kidnapping you and the Princess." Ike then turned to face the innumerable lives that dwelled within the galaxy.  
 
 He paused for a moment before declaring thus: "Inhabitants of the galaxy. Though I have come here upon the invitation of the High Saint King Lebannin to re-ignite the flames of the few remaining stars, it seems that the Andromeda Empire does not wish for your longevity, and has thus kidnapped my friend."  
+
+
+> [!NOTE] 🔖
+> all of this is very interesting but what does it mean
 
 "Are you then to put their lives over that of all life?" Saint King Lebannin arose from her seat. "If that is the case, why then do I rule over these stars?"  
 
@@ -245,6 +312,10 @@ Finally, the Saint King would charge into peril alone, defeat the assassins from
 
 "I am, in fact, that same holy dragon. I fused with Lebannin's flesh and blood, and now act according to her wishes."  
 
+
+> [!NOTE] 🔖
+> maybe the second who came *is* phanes now
+
 "Huh..." Ike was a little shocked by this.  
 
 "Ah, yes. Is that fellow the person the Second Princess is fond of? When I barged in, they were..."  
@@ -254,6 +325,11 @@ Finally, the Saint King would charge into peril alone, defeat the assassins from
 > Of course boys aren't invited to the girl's slumber party! Girls are sacrosanct, like the gods of the golden age. 
 > 
 > Vera, the Princess, Saint King Lebannin, and Ur, alpha female of the Galactic Swarm, shall talk deep into the night!
+
+
+> [!NOTE] 🔖
+> isn’t the galactic swarm in hsr?
+
 
 ### The Girls Themselves
 "I said it was a misunderstanding! She was about to eat me." Sachi explained.  
@@ -265,6 +341,11 @@ Finally, the Saint King would charge into peril alone, defeat the assassins from
 "Let me finish." Ike wanted to touch his eyes, but wound up pressing his fingerprint into his glasses. Taking his glasses off, he touched his left eye. "Their practice of eating eyes has two meanings: submission..."  
 
 He touched his right eye. "...and love."  
+
+
+> [!NOTE] 🔖
+> okie dokie
+
 
 Sachi also began to rub both his eyes, thinking about which it was back then.  
 
@@ -291,6 +372,11 @@ As Vera and Sachi grew up, the chemistry between the four changed in subtle and 
 
 Ike was a symbol of a faraway land. He stood for the unknown, for that which was waiting to be discovered. A brave bird would never nest there, but would be forever adrift in the winds of admiration.  
 
+
+> [!NOTE] 🔖
+> truth pursuing the unknown
+
+
 Ike retorted, "No matter which way you look at it, being a thousand years old makes you an elderly person."  
 
 "Then we are well-matched in age." The Princess merrily chipped in on their conversation.  
@@ -301,25 +387,46 @@ When Sachi finally mustered the courage to declare his love, he met with the mos
 
 Remember the ancient sword that Ike and Vera received from the old ones when they first met? It was what Ike needed to propel destiny forward! But now, Vera had her finger slit by its blade, and a malicious ancient virus sapped the life out of her.  
 
+
+> [!NOTE] 🔖
+> wow classic. punished by love. 
+
+
 ---
   
 "This is all your fault!" Sachi grabbed Ike by the collar. If the tragedy had not happened, Ike would have laughed it off, for he was a gentle soul. But this time, he slapped Sachi's hand away.  
 
 "Don't you know how to rewind time? Please! Do it to save Vera!" Even the Princess begged.  
 
-"You don't understand. Only the future can save the past, not the other way around." Ike bit his lip until blood came flowing down.  
+"You don't understand. Only the future can save the past, not the other way around." Ike bit his lip until blood came flowing down. 
+
+
+> [!NOTE] 🔖
+> OOOOH SO WE *ARE* SAVING THE PAST
+
 
 ---
   
 "A local myth speaks of a Silver Age when people enjoyed a seemingly endless childhood that could last up to two hundred years. This only made their short maturity a pain to bear."  
 
-To the others, childhood was long gone, but youth was forever beyond their reach.  
+
+> [!NOTE] 🔖
+> i think the silver age is one of ovid’s four ages. also what if this is klee’s species?
+
+
+To the others, childhood was long gone, but youth was forever beyond their reach.
+
 To be continued in "Vera's Melancholy" without Vera.
 
 ## volume x
 > "It's enough. Let's go home... The furthest place I've dreamt of, is the Delphi where you are." 
 > 
 > Though the explanation is delayed, you should know that Delphi is the center of Greek mythology. Vera's Melancholy - the perfect ending... or is it?
+
+
+> [!NOTE] 🔖
+> this kind of irl meta thing always confuses & intrigues me. who is writing this? a descender? alice?
+
 
 ### Vera's Melancholy
 To revive Vera, Sachi, Ike and the Princess embarked on a spectacular and thrilling journey that lasted twenty years. From battling Signor Inferno to slaying the Star Devourer, the trio had even rescued two galaxies and the Galaxy Empire, and eliminated four species of ruthless interstellar worms along the way.  
@@ -330,17 +437,37 @@ To the dominant species of Andromeda, twenty years was nothing more than a few s
 
 Sachi, having lost an eye in his adventures, was now a tall and strapping young man. His flowing tears soaked into Vera's shoulders — though still prone to tears, he was no longer his feeble-minded self.  
 
+
+> [!NOTE] 🔖
+> hahahahaha of course he lost an eye. which one tho. 
+
+
 The years had been kind to Ike, who after all this time still had that same old smile on his face.  
 
 "I am but an echo of time," Ike said as he began his preparations. "As I've said, the past cannot change the future, for the predetermined rules of equilibrium are slightly more powerful than me. But the future, with its infinite possibilities, could save the world."  
+
+
+> [!NOTE] 🔖
+> shade of time? one of the four shades? istaroth? also: predetermined rules of equilibrium = heavenly principles?
+
 
 ---
   
 Ike transformed Sachi back into who he was twenty years ago, and time reversed itself to the day of their departure. Everything seemed to remain unchanged between the four, though they realized that the innocence they once shared was one thing that could never return.  
 
+
+> [!NOTE] 🔖
+> interesting
+
+
 "I am sorry for depriving you of your childhood," Ike said to him. "Now go, the youth that you deserve awaits."  
 
 "I have witnessed every wonder in the universe for your sake, and this was how my childhood ended." Sachi summoned every last ounce of his courage as he stood before the girl of his destiny. "I will never reach my youth without you by my side." 
+
+
+> [!NOTE] 🔖
+> now that he has gone everywhere and seen everything and sacrificed everything, he is (maybe) allowed to love her without consequence?
+
 
 ---
   

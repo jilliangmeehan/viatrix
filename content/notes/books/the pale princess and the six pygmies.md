@@ -99,6 +99,10 @@ The shrunken pygmy squinted in disdain. His complexion wrinkled up like a piece 
 
 "Brothers, you have been hiding in the shadows for too long. The darkness has clouded your judgment. It is new life that we need in order to survive. I say we use the corpse of the Prince as fertilizer so my garden might flourish again."  
 
+
+> [!NOTE] 🔖
+> fertilizer impact
+
 The carefree pygmy sighed and looked sullen.  
 
 "We'd better get this over with quickly... If it weren't for them, these evil thoughts wouldn't have entered my mind, and I wouldn't have become so somber."
@@ -106,6 +110,10 @@ The carefree pygmy sighed and looked sullen.
 There was one pygmy who did not join the discussion. This is not because he was not evil, but because the guilt of betraying his savior overcame his wicked nature enough to make him keep his mouth shut. He couldn't even say a single word. 
 
 Nevertheless, the guilt could not completely suppress his corrupt nature and the pygmies all agreed to the scheme. They decided to poison the Prince's water.
+
+
+> [!NOTE] 🔖
+> related to fontaine / the hydro archon?
 
 ## volume vi
 > A fairytale story that has been told throughout Teyvat for ages. This installment tells of how the Six Pygmies managed to implement their nefarious plot.
@@ -116,8 +124,17 @@ The poison had sent the Prince into a coma as the Pale Princess slept. The six p
 
 In her sleep, the Princess had no idea how the Prince was being tortured. In her dream, her lover's body glowed with luminous colors and light scattered gently like satin. The sweet sunlight finally broke through the dark clouds and sprinkled on the living. The orange glow of the setting [[notes/reference/motifs/sun|sun]] painted a layer of caramel on the blue lake, making the water as sweet as nectar. New colors were painted on the black hills and the ruined city was turned into a candy castle. However, when the Princess called the Prince by name, all she heard in reply were indistinguishable words.  
 
+
+> [!NOTE] 🔖
+> could the teyvat we know be in a dream? and the ruined version is the real version?
+
+
 The poor Princess had no idea that the Prince could no longer respond to her calling.  
 Lightning flashed and thunder echoed in the silent night sky. The six pygmies carried out their scheme successfully. To celebrate, they set up a huge pot and cooked a pot of thick soup with moss and poisonous mushrooms. But just as the culprits were enjoying their feast, the Prince's broken soul used up all its remaining power to curse the pygmies. For the rest of their lives, they were tormented by a curse that made them feel as if they were being cooked in a huge cooking pot, unable to ever see the light of day again.  
+
+
+> [!NOTE] 🔖
+> yeah that curse sounds about right
 
 However, during the celebration, one of the pygmies wrapped the Prince in the dirty tablecloth, intent on carrying him back to the dark forest to seek help from the Princess, hoping to wake him up. No one knows if this was out of a lingering sense of loyalty to the Princess, or simply born of his fear of the curse.
 
@@ -125,15 +142,31 @@ However, during the celebration, one of the pygmies wrapped the Prince in the di
 > A fairytale story that has been told throughout Teyvat for ages. The final installment brings everything to a conclusion, and includes the Night Mother's prophecy.
 
 This pygmy spirited the Prince's body away from his wicked brethren, plunging into the damp bushes. Following animal tracks, he searched for the Fountain of Purity where the Pale Princess slept.  
+
+
+> [!NOTE] 🔖
+> FOUNTAIN OF PURITY
+
   
 What the pygmy didn't know is that the vicious Night Mother had already found the Princess. She followed the pygmy stealthily, like a wild cat stalking its prey, her shadowy figure blotting out the moonlight and starlight.  
 
-When the pygmy arrived, the Princess was already gone. The sorrowful howl of a night owl was heard as the Night Mother arose from the now-corrupt fountain.  
+When the pygmy arrived, the Princess was already gone. The sorrowful howl of a night owl was heard as the Night Mother arose from the now-corrupt fountain. 
+
+
+> [!NOTE] 🔖
+> could the princess be the goddess of flowers?
+
+
 "Pitiful creature, are you here to see your master?" The vile smirk of the Night Mother exuded the breath of the [[notes/places/abyss|abyss]].  
 
 "If so, I'm afraid all you will find here is despair, you sad little thing."  
 
 "That foolish princess is now in chains. I destroyed the Moonlight Kingdom and cursed her people before her eyes. They will be in an undead state, lingering at the point between life and death forevermore. No soul and no moonlight." The words of the Night Mother landed like cold raindrops on a forgotten tomb.  
+
+
+> [!NOTE] 🔖
+> hmmm yeah that sure does sound like what’s happening in teyvat lol
+
 
 "Look at you, you poor pygmy. I wonder what your master will think when she finds out what you have done."  
 
@@ -142,6 +175,11 @@ Fear crawled through the pygmy's veins and grabbed his feeble heart.
 The Night Mother left the pygmy to wallow in grief. But first — whether out of some hitherto unknown sense of pity, or simply to see him suffer more, we shall never know — the Night Mother left a glimpse of hope for the wretched pygmy.  
 
 "In thousands of years time, my greatest foe will descend. He wields a sword that heralds the dawn and wears armor that can reflect the shining sunlight. He shall destroy my kingdom and bring the Prince back to life. The Princess will then be free from her eternal torment. Until then, I fear not a single soul in the Land of Night, for nothing will bring an end to my kingdom except for the catastrophe foretold by the prophecy. As for you, the treacherous slave that poisoned his master... fate shall see that you get what you deserve."  
+
+
+> [!NOTE] 🔖
+> much to think about here
+
 
 The Night Mother then collapsed and became a pile of sludge consisting of mud and worms.  
 
